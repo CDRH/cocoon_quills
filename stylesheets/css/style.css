@@ -1,0 +1,394 @@
+/* Primary Styles
+    Author: 
+ */
+ 
+  
+html {
+	background-color: #3e515f;
+}
+
+div.main {
+	
+}
+
+div.all {
+	width: 960px;
+	margin: auto;
+	
+}
+
+.header h1 {
+	text-indent: -9999px;
+	height: 164px;
+	width: 960px;
+	background-image: url(../../imgs/header.jpg);
+	margin: 0 0 5px 0;
+}
+
+.navigation {
+	width: 220px;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+.navigation ul {
+	margin: 0;
+	padding: 0;
+}
+
+.navigation li {
+	
+}
+
+div#footer {
+	background-color: #374855;
+
+	margin-top: 10px;
+	width: 700px;
+	float: right;
+	padding: 10px;
+	clear:right;
+	color:#fff;
+}
+
+#footer img {
+	float: right;
+}
+
+#footer p {
+	float: left;
+
+	width: 400px;
+}
+
+.content {
+	width: 700px;
+	float: right;
+	background-color: #f2edda;
+	border: 10px solid #546a77;
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+}
+
+div.navigation {
+	
+}
+
+.birds .birds a, .bibl .bibl a, .about .about a, .home .home a, .intro .intro a {
+	background-color: #374855;
+}
+
+div.navigation ul{
+	list-style: none;
+	margin: 0;
+}
+
+div.navigation li {	
+	margin: 0 0 5px 0;
+	
+}
+
+div.navigation li a, div.navigation li form  {
+	padding: 10px 20px 10px 0px;
+	margin: 0 0 5px 0;
+	color: #fff;
+	display: block;
+	text-decoration: none;	
+	background-color: #546a77;
+	text-align: right;
+	font-variant: small-caps;
+}
+
+div.navigation li a {
+	font-size: 1.4em;
+	
+}
+
+div.navigation li a:hover {
+	background-color: #374855;
+	
+}
+
+div.navigation li form input  {
+
+}
+
+.main {
+	padding: 20px;
+}
+
+.main h2 {
+	font-size: 1.6em;
+}
+
+.literature {
+	width: 400px;
+	float: left;
+	font: 1.2em Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+	padding-right: 10px;
+	border-right: 1px solid #e0dbca;
+}
+
+.literature h2 {
+	padding: 0 0 15px 0;
+}
+
+.meta {
+	width:  230px;
+	float: right;
+	
+	clear: right;
+	padding-bottom: 10px;
+}
+
+.meta p {
+	padding-bottom: 0;
+	padding-top: 5px;
+}
+
+.meta h3 {
+	padding-top: 10px;
+	font-size: 1.2;
+	font-weight: 800;
+}
+
+.media {
+	width: 230px;
+	float: right;
+	
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.media h2 {
+	font-size: 1.3em;
+}
+
+.media h3 {
+	font-size: 1.1em;
+}
+
+.media img {
+	border: 0;
+}
+
+.media p {
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+
+.projectNote{
+	width: 230px;
+	float: right;
+	border-bottom: 2px solid #e4dfcd;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	clear: right;
+}
+
+
+ul.iteminfo {
+	margin: 0 0 0 -210px;
+	list-style: none;
+	width: 200px;
+	float: left;
+	border: 2px solid #3e515f;
+	margin-top: 10px;
+}
+
+ul.iteminfo li {
+	margin: 0;
+	background-color: #546a77;
+	margin: 2px;
+	padding: 2px;
+}
+
+ul.iteminfo li{
+	color: #fff;
+}
+
+p {
+	padding: 10px 0;
+}
+
+h1 {
+	font-size: 1.6em;
+}
+
+
+
+.intro .main ul {
+	width: 100px;
+float: right;
+clear: none;
+}
+
+.intro .main p {
+	width: 660px;
+	float: left;
+	clear: left;
+	font: 1.2em Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+
+}
+
+.linegroup {
+	padding: 10px 0;
+}
+
+.linegroup p {
+	margin: 0;
+	padding: 0;
+}
+
+.projectNote .linegroup p {
+	margin: 0;
+	padding: 0 0 5px 0;
+}
+
+p.indent {
+	padding-left: 1em;
+}
+p.indent2 {
+	padding-left: 2em;
+}
+
+.biblInfo p, .birdArticles p {
+	margin: 0;
+	padding: 0;
+	padding-top: 3px;
+	padding-left: 2em;
+}
+
+.biblInfo h3, .birdArticles h3 {
+	font-size: 1.2em;
+	margin-top: 10px;
+	font: 1.2em Georgia, "Times New Roman", Times, serif;
+	font-weight: 800;
+}
+
+.searchResult {
+	padding: 10px 0;
+}
+
+.searchResult h3 {
+	font: 1.2em Georgia, "Times New Roman", Times, serif;
+	font-weight: 800;
+}
+
+.searchResult p {
+	padding: 5px 0;
+	
+}
+
+
+
+audio {
+	width: 230px;
+	padding: 0;
+	margin: 0 0 5px 0;
+	
+	
+}
+
+.home .main {
+	font: 1.2em Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+}
+
+.about .main{
+	font: 1.2em Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+}
+
+.about .main h3{
+	margin-top: 10px;
+}
+
+.error .main {
+	font: 1.4em Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+}
+
+.birdcredit {
+	width: 220px;
+	float: left;
+	height: 200px;
+	/*background-color: firebrick;*/
+	text-align: center;
+}
+
+.birdcredit img {
+	border: solid 1px #000;
+}
+
+.birdcredit h4 {
+	font-size: 1.2em;
+	margin: 0;
+	padding:  5px 0 5px 0;
+}
+
+.birdcredit p {
+	padding: 0;
+	margin: 0;
+}
+
+
+
+
+/* 
+ * print styles
+ * inlined to avoid required HTTP connection www.phpied.com/delay-loading-your-print-css/ 
+ */
+@media print {
+  * { background: transparent !important; color: #444 !important; text-shadow: none; }
+
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+
+  a:after { content: " (" attr(href) ")"; } 
+
+  abbr:after { content: " (" attr(title) ")"; }
+  
+  .ir a:after { content: ""; }  /* Don't show links for images */
+  
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  
+  img { page-break-inside: avoid; }
+
+  @page { margin: 0.5cm; }
+
+  p, h2, h3 { orphans: 3; widows: 3; }
+
+  h2, h3{ page-break-after: avoid; }
+}
+
+
+
+/*
+ * Media queries for responsive design
+ */
+
+@media all and (orientation:portrait) { 
+  /* Style adjustments for portrait mode goes here */
+  
+}
+
+@media all and (orientation:landscape) { 
+  /* Style adjustments for landscape mode goes here */
+  
+}
+
+/* Grade-A Mobile Browsers (Opera Mobile, iPhone Safari, Android Chrome)  
+   Consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
+@media screen and (max-device-width: 480px) {
+  
+  
+  /* Prevent iOS, WinMobile from adjusting font size */
+  html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } 
+}
+
+
+

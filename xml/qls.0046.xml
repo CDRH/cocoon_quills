@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0046" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from "Spring"</title>
+<title level="m" type="sub"></title>
+<author>Kooser, Ted (1939-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0046</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The finale to the "Spring" section of <hi rend="italic">Local Wonders</hi>, this prose poem first portrays vultures at their morning "toilet," if you will, a family portrait alien to those who have only seen this species in flight. For, to perform its later aerial feats of long, high soaring, the vulture must first dry its wings in the sun; a flock of vultures on a riverbank with wings outstretched to perform this daily ritual is a sight indeed. And these bird's unfeathered heads!&#8212;both poetic and (impressionistically) realistic are the comparisons to "lumps of innards" and "red fists." After the biographical turn of the second paragraph ends with some marvelous black humor, the last paragraph settles into a tone of naturalistic stoicism, both playing with the birds' traditional role as fateful signifiers and intimating a deeper philosophy of acceptance of the natural order, beyond our species' usual "all too human" aspirations.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Local Wonders: Seasons in the Bohemian Alps</title>
+<title level="a">Spring</title>
+<author>Kooser, Ted (1939-)</author>
+<publisher>University of Nebraska Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">36</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2002">2002</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Cathartes aura</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Vulture_Turkey" type="noAudio">Vulture, Turkey</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-02-23"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from "Spring"</head>
+<div1>
+
+<p>I just counted twenty-seven turkey vultures perched in the trees at the head of our pond, taking the early morning sun, a few holding their wings open as if to air them like soiled bedding after a long winter, others lazily shifting from branch to branch, their weight slightly altering the white shapes of the dead trees as they settle. Gray-brown feathers like ash, little red heads like lumps of innards. If we were looking for one word to describe them, it would be patience. The turkey vulture is never in a hurry; what it wants will come to it in time.</p>
+<p>Two years ago in late spring, when Kathleen drove me home from the hospital after cancer surgery, we came up over a hill about a mile from our house, and they were waiting, maybe fifty turkey vultures, sitting on fence posts along the road, standing in the grass just over the fence. Uh-oh, I thought, they've been waiting for me. I might as well get out and lie down at the edge of the road.</p>
+<p>As they moved about on the ground, they occasionally opened and then beat down their wings, lifting them just slightly off the ground, as if to say, I can fly if I feel like it, but I don't feel like it just yet. There will be plenty of time for flying later. For the time being, we're waiting. Just working our wings a little and slowly turning our heads and showing off the red fists of our heads and our bright yellow eyes that can see right straight through human hope.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

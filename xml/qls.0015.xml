@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0015" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Screech Owl</title>
+<title level="m" type="sub"></title>
+<author>Kooser, Ted (1939-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0015</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Nebraska poet (and U.S. Poet Laureate) Ted Kooser knows that not all owls are the large "hoot" owls of popular iconography. Interestingly, the actual subject of two-thirds of the poem is the bird's sound, not the bird itself. And the bird per se of the second, final sentence remains a tenuous, eerie uncertainty, as the reader ponders the what and why of the bird's "small hope" and whether that "center of darkness" connotes more than the literal tree cavity from which it calls.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Delights and Shadows</title>
+<title level="a">Screech Owl</title>
+<author>Kooser, Ted (1939-)</author>
+<publisher>Copper Canyon Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">73</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2004">2004</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Megascops asio</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Screech-Owl_Eastern">Screech-Owl, Eastern</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-20"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Screech Owl</head>
+<div1>
+
+<lg type="poem">
+<l>All night each reedy whinny</l>
+<l>from a bird no bigger than a heart</l>
+<l>flies out of a tall black pine</l>
+<l>and, in a breath, is taken away</l>
+<l>by the stars. Yet, with small hope</l>
+<l>from the center of darkness</l>
+<l>it calls out again and again.</l>
+</lg>
+
+
+</div1>
+</body>
+</text>
+</TEI>

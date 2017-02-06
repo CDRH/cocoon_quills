@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0005" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Heron</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949- )</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0005</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Among Great Plains birds, this large heron strikes the viewer as perhaps the most "archaic" creature of them all. Its long neck curved into an "s" to better perform its apparently awkward flight, its ungainly legs trailing behind, the bird seems an avatar from a previous geological era&#8212;which (like the crane) it is. Nebraska poet Twyla Hansen captures this truth wonderfully in this poem, as the heron "on ancient wings" both evokes an earlier and much warmer age and climate, when scales became feathers, and a Midwestern winter scene where this bird, marvelously, still survives, "gleaning" and "reaping."</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Potato Soup</title>
+<title level="a">Heron</title>
+<author>Hansen, Twyla (1949- )</author>
+<publisher>Backwater Press</publisher>
+<biblScope type="page">11</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2003">2003</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Ardea herodias</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Heron_Great_Blue">Heron, Great Blue</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-08"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<head>Heron</head>
+<div1>
+
+<lg>
+<l>Above the dike, early sun divides</l>
+ <l rend="indent">the opposite bank into light and dark,</l>
+ <l rend="indent2">sky reflected on slow-moving water.</l>
+</lg>
+
+<lg>
+<l>Below, a great blue heron rises motionlessly</l>
+ <l rend="indent">on stilt-legs in the shallows,</l>
+ <l rend="indent2">her bill as if a dagger poised.</l>
+</lg>
+
+<lg>
+<l>There are theories, yet no one for certain knows</l>
+ <l rend="indent">how the first birds began flight&#8212;gliding from a tree</l>
+ <l rend="indent2">or flapping off the ground&#8212;to escape or to eat.</l>
+</lg>
+
+<lg>
+<l>All winter, walking to this creek,</l>
+ <l rend="indent">I have seen her standing in the unfrozen stream,</l>
+ <l rend="indent2">gleaning.</l>
+</lg>
+
+<lg>
+<l>A drift of snow lies protected on the steep,</l>
+ <l rend="indent">shadowy bank. Imagine millions of years ago:</l>
+ <l rend="indent2"><hi rend="italic">Archaeopteryx</hi>&#8212;Jurassic bird with clawed fingers,</l>
+</lg>
+
+<lg>
+<l>teeth and bony tail like a dinosaur;</l>
+  <l rend="indent">no evidence of snow or ice anywhere,</l>
+    <l rend="indent2">plant&#8212;animal&#8212;earth in a state of grace.</l>
+</lg>
+
+<lg>
+<l>Later, she will fold her long neck, take flight without me,</l>
+  <l rend="indent">glide on ancient wings a few yards further,</l>
+  <l rend="indent2">reaping this short cold day.</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

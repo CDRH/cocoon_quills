@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0032" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Missouri River Journals</hi></title>
+<title level="m" type="sub"></title>
+<author>Audubon, John James (1785-1851)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0032</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Audubon's journey up the Missouri had placed him in extreme southeast South Dakota when he wrote the sentence above. The famous artist and ornithologist eventually did determine that the Western Meadowlark was a "new" species, giving it the scientific name that it still bears, <foreign>Sturnella neglecta</foreign>. This species' vocal outburst, so different from the curt whistles of the Eastern Meadowlark, was enough to tell the difference, one might have hoped, but the habit of 19th-century naturalists was to verify with a gun. Indeed, Audubon's own gun-toting on behalf of science was self-proclaimed: "I call birds few when I shoot less than 100 per day" (qtd. in Joseph Kastner, <emph>A World of Watchers</emph> [Alfred A. Knopf, 1986], 70).</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Writings &amp; Drawings</title>
+<title level="a">from <hi rend="italic">Missouri River Journals</hi></title>
+<editor>Christoph Irmscher, ed.</editor>
+<author>Audubon, John James (1785-1851)</author>
+<publisher>Library of America</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">590</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1999">1999</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term>Sturnella neglecta</term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Meadowlark_Western">Meadowlark, Western</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-06"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Missouri River Journals</hi></head>
+<div1>
+
+<p><hi rend="italic">[May 18th, 1843:]</hi></p>
+<p>[W]e saw Meadow Larks whose songs and single notes are quite different from those of the Eastern States; we have not yet been able to kill one to decide if new or not.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0060" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lark Sparrow</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0060</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>This paean to the sparrows' spring courtship song is a human melody in itself, with the frequent alliteration ("green, / graze on grasshoppers"; " Both blessing and burden"; "frail petals unfold / on the forbs") and the occasional leaps into rollicking dactylics ("trembling display, the courtship they shoulder / restoring the species"). . . . The Lark Sparrow is one of the Midwest's more easily identified native sparrows, with its striped facial pattern and long, varied song.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Prairie Suite: A Celebration</title>
+<title level="a">Lark Sparrow</title>
+<author>Twyla Hansen and Paul Johnsgard</author>
+<publisher>Spring Creek Prairie Audubon Center</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">6</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2006">2006</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Chondestes grammacus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Sparrow_Lark">Sparrow, Lark</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-03-26"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Lark Sparrow</head>
+<div1>
+
+<lg type="poem">
+<l>What light flickers on? What invisible filament</l>
+<l>guides them on their long migration north?</l>
+</lg>
+
+<lg type="poem">
+<l>May, and already they tumble toward this cathedral green,</l>
+<l>graze on grasshoppers, the slender, uneaten seeds</l>
+</lg>
+
+<lg type="poem">
+<l>of the previous fall. Both blessing and burden,</l>
+<l>this trembling display, the courtship they shoulder</l>
+</lg>
+
+<lg type="poem">
+<l>restoring the species. Meanwhile, frail petals unfold</l>
+<l>on the forbs, rise from the thatch of last season,</l>
+</lg>
+
+<lg type="poem">
+<l>this noisy pond, that placid field, this dusty Earth,</l>
+<l>their rusty patches, their melodic song, singing, singing.</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

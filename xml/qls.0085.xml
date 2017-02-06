@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0085" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Earth, Water, and Sky</hi></title>
+<title level="m" type="sub"></title>
+<author>Johnsgard, Paul A. (1931-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0085</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p></p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Earth, Water, and Sky</title>
+<title level="a">from <hi rend="italic">Earth, Water, and Sky</hi></title>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>University of Texas Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">109</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2000">2000</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Numenius americanus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Curlew_Long-Billed">Curlew, Long-Billed</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-05-01"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Earth, Water, and Sky</hi></head>
+<div1>
+
+<p>It is much easier to love the Niobrara River than to extol the understated beauties of my favorite Nebraska stream, the Platte. The Niobrara has uncounted shady canyons decorated by trickling brooks and hidden, lacelike waterfalls, has exposed vertical bluffs whose layered horizontal bands of sand and clay have written the earth's recent geological history as clearly and logically as the chapters of a book, and has just enough in the way of rapid water to prevent one from falling asleep at the paddle. What is most audible when one is paddling the river is the sound of water lapping at the canoe, of wind rustling the leaves of shoreline cottonwood trees, of an occasional Long-billed Curlew screaming its annoyance over our intrusion into its breeding territory, and the constant liquid sounds of softly running water. What is absent are ringing telephones, traffic noises, sports broadcasters excitedly blaring out inane comments on, and endless details about, the Cornhuskers' most recent touchdown over yet another obscure, mismatched opponent, and all the other noise pollution that we increasingly take for granted as a partial price of modern living.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

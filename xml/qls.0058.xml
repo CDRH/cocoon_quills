@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0058" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from "Waking Up the Rake"</title>
+<title level="m" type="sub"></title>
+<author>Hogan, Linda (1947-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0058</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>If the main agenda of Chickasaw writer Linda Hogan is to "cross the border" of species, she performs it here through a bold inversion of the usual hierarchy of anthropocentrism. Here, in the Birds of Prey Rehabilitation Foundation (in Colorado), the birds are the superior species, "teachers" of greater intelligence who require much preparation and learning from their human students before the latter can really "know" them. There is a haunting undertone to these various images of avian eyes and inhuman feet, in this sudden apprehension of the presence of an alien intelligence. Most haunting is the sad realization that "they know" that "we have somehow fallen" from the community of being.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Dwellings</title>
+<title level="a">Waking Up the Rake</title>
+<author>Hogan, Linda (1947-)</author>
+<publisher>Norton</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">150</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1995">1995</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Tyto alba</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Owl_Barn">Owl, Barn</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-03-25"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from "Waking Up the Rake"</head>
+<div1>
+
+<p>This work [at a raptor rehabilitation facility] is a sweet apprenticeship and the birds are the teachers. Sweet-eyed barn owls, such taskmasters, asking us to be still and slow and to move in time with their rhythms, not our own. The short--eared owls with their startling yellow eyes require the full presence of a human. The marsh hawks behind their branches watch our every move.</p>
+<p>There is a silence needed here before a person enters the bordered world the birds inhabit, so we stop and compose ourselves before entering their doors, and we listen to the musical calls of the eagles, the sound of wings in air, the way their feet with sharp black claws, many larger than our own hands, grab hold of a perch. Then we know we are ready to enter, and they are ready for us.</p>
+<p>The most difficult task the birds demand is that we learn to be equal to them, to feel our way into an intelligence that is different from our own. A friend, awed at the thought of working with eagles, said, "Imagine knowing an eagle." I answered her honestly, "It isn't so much that we know the eagles. It's that they know us."</p>
+<p>And they know that we are apart from them, that as humans we have somehow fallen from our animal grace <gap reason="sampling" /> </p>
+</div1>
+</body>
+</text>
+</TEI>

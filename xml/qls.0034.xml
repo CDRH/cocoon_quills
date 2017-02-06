@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0034" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Missouri River Journals</hi></title>
+<title level="m" type="sub"></title>
+<author>Audubon, John James (1785-1851)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0034</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Audubon "discovered" Harris's Sparrow early on his Missouri River journey, near Leavenworth, Kansas, on the Missouri side of the river. The first two passages above strike me as downright amusing, as Audubon describes the "shy" females' apparently untoward refusal to be "procured." The female is finally acquired, the species is finally named&#8212;and the name of another of Audubon's friends is immortalized, in the third entry; but what is striking here is how casually callous the great naturalist can be towards other groups of humans (the poverty-stricken Natives, the "stupid" working class) as he busies himself devising Latin names for bird-guide posterity.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Writings &amp; Drawings</title>
+<title level="a">from Missouri River Journals</title>
+<editor>Christoph Irmscher, ed.</editor>
+<author>Audubon, John James (1785-1851)</author>
+<publisher>Library of America</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">567-568, 686</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1999">1999</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Zonotrichia querula</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Sparrow_Harris">Sparrow, Harris's</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-06"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Missouri River Journals</hi></head>
+<div1>
+
+<p>[May 5th, 1843:]</p>
+<p>On examination of the Finch killed by Harris yesterday, I found it to be a new species, and I have taken its measurements across this sheet of paper. It was first seen on the ground, then on low bushes, then on large trees; no note was heard. Two others, that were females to all appearance, could not be procured on account of their extreme shyness.</p>
+<lb/>
+<p>[May 6th, 1843:]</p>
+<p>Harris shot another of the new Finches, a male also, and I saw what I believe is the female, but it flew upwards of 200 yards without stopping.</p>
+<lb/>
+<p>[May 17th, 1843:]</p>
+<p>The four Indians we have on board are three Puncas and one Sioux <gap reason="sampling" /> Three of the Puncas have walked off to the establishment of Mr. Cerr&#233; to procure moccasins, but will return to-night. They appear to be very poor, and with much greater appetites than friend [George] Catlin describes them to have. Our men are stupid, and very superstitious; they believe the rattles of snakes are a perfect cure for the headache; also, that they never die till after sunset, etc. We have discovered the female of Harris's Finch, which <gap reason="sampling" /> resembles the male almost entirely; it is only a very little paler in its markings. I am truly proud to name it <foreign>Fringilla Harrisii</foreign>, in honor of one of the best friends I have in this world.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

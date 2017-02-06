@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0024" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wild Pigeon Killed From Flock Near Papillion</title>
+<title level="m" type="sub"></title>
+<author>Griswold, Sandy (1849-1929)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0024</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Griswold began his Nebraska journalist career as a sportswriter whose beat included the area's hunting goings-on. At this time, he was still obviously unaware of the sheer sadness of this report on one of the last Passenger Pigeons killed in the wild, nor could he guess that the entire species would soon be extinct in less than a score of years. The final sentence seems especially incredible, even cruel, in retrospect. As if to repent for such unthinking journalistic efforts, Griswold would later become a fervent naturalist and campaigner for wildlife protection laws.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">Omaha Sunday Bee</title>
+<title level="a">Wild Pigeon Killed From Flock Near Papillion</title>
+<author>Griswold, Sandy (1849-1929)</author>
+<publisher>Omaha Sunday Bee</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<biblScope type="page">22</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1895-11-17">17 November 1895</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Ectopistes migratorius</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Pigeon_Passenger" type="noAudio">Pigeon, Passenger</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-01-23"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Wild Pigeon Killed From Flock Near Papillion</head>
+<div1>
+<p>Edgar Howard, editor of the Papillion Times, and Sarpy's newly-elected county judge, is an ardent follower of field sports. Mr. Howard was down in Hahn's woods, five miles southeast of the town, Saturday last, and killed nine squirrels and a wild pigeon with a 22 Winchester. The killing of the pigeon is a rare event, indeed, and with one exception is the only bird of this kind that has been bagged in this section of the country for ten years or more. There were from fifteen to twenty birds in the flock Mr. Howard saw. They were in the dense Umber, which is heavier here than at any other part of the county, and he got but one shot. The bird was a handsome old cock, with beautiful long tail feathers and royal purple bronze breast.
+</p>
+</div1>
+</body>
+</text>
+</TEI>

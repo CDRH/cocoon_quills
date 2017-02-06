@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0070" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">After Lorca</title>
+<title level="m" type="sub"></title>
+<author>Gannon, Thomas C.</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0070</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Adopting the form of a poem by the Spanish modernist poet Lorca, the poet here idealizes the bird unconscionably, imagining that it is motivated to sing out of some purely art-for-art's sake impulse. One even doubts whether this bookish South Dakota poet has ever been outdoors long enough to hear the red-wing in its natural habitat. This is really silly stuff.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">DreamTundras:  Selected Poems, 1972-1992</title>
+<title level="a">After Lorca</title>
+<author>Gannon, Thomas C.</author>
+<publisher>unpublished manuscript</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page"></biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1992">1992</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Agelaius phoeniceus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Blackbird_Red-Winged" type="noAudio">Blackbird, Red-Winged</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-17"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>After Lorca</head>
+<div1>
+
+<lg type="poem">
+<l rend="indent">the red-winged blackbird</l>
+<l>sings, but not to call his pied-brown mate</l>
+<l>or a cattail congerie&#8212;</l>
+<l>he sings to be singing: he sings</l>
+</lg>
+
+<lg type="poem">
+<l rend="indent">the red-winged blackbird</l>
+<l>sings, but not for the ever-returning spring,</l>
+<l rend="indent">or other springs, gone by&#8212;</l>
+<l rend="indent">he sings to be singing: he sings</l>
+</lg>
+
+<lg type="poem">
+<l rend="indent">the red-winged blackbird</l>
+<l>sings, not to recall in us some preternatural</l>
+<l>nature of things:</l>
+<l>he sings</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

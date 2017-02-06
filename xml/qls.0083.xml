@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0083" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Earth, Water, and Sky</hi></title>
+<title level="m" type="sub"></title>
+<author>Johnsgard, Paul A. (1931-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0083</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The passage above might be considered required content for every Nebraska tourism brochure, if it weren't so eloquent&#8212;from the young cranes' "baby voices" and the Platte River as a "quicksilver necklace," to the final plea for ecological sanity. It is, unfortunate, though, that "our" native species need the analogical support of an Old World classical music and an Old World religion: it is the former, in their sheer living materiality, that are the true wonders and our "greatest treasures," after all, not specific historical manifestations of human aesthetics and theology. The advent of European ideologies and peoples to the continent of the Sandhill Crane is, in fact, why the ornithologist must now call for natural preservation; and it is because of the "tens of thousands of immigrants"&#8212;including Buffalo Bill and his ilk&#8212;that "millions of bison" no longer drink from <emph>any</emph> river.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Earth, Water, and Sky</title>
+<title level="a">from Earth, Water, and Sky</title>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>University of Texas Press</publisher>
+<pubPlace>Austin</pubPlace>
+<biblScope type="page">111-112</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1999">1999</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Grus canadensis</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Crane_Sandhill" type="noAudio">Crane, Sandhill</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-05-01"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Earth, Water, and Sky</hi></head>
+<div1>
+
+<p><gap reason="sampling" /> [I]t is unbelievable that so many Nebraskans have yet to make what is for me an annual religious pilgrimage to the Platte Valley each spring, to revel in the sounds and sights of uncountable cranes and geese, and to know that the promise of another Nebraska spring has been fulfilled by their simple presence. The splendor of several thousand cranes flying up and down the river as nightfall approaches, looking for a safe sandbar on which to spend the night, and with the juvenile birds calling constantly in their distinctive baby voices to remain in touch with their parents in the fading light, touches one's soul at so many levels that it is hard not to weep from the utter magic and power of it all. After every such experience I am as emotionally drained as I am after hearing a perfect performance of a Beethoven symphony, or a sacred Bach composition. The word "religion" comes from the Latin word <foreign>religio</foreign>, meaning a bond between humans and the gods, and in common with the enduring orchestral music, cranes provide that connection perfectly. Often appearing miraculously from incredible heights like celestial seraphim, and sometimes similarly ascending into the sky until they are lost to human view, our Sandhill Cranes are every bit as wondrous as the angels painted on the ceiling of the Sistine Chapel, and one does not have to travel to Italy to appreciate them.</p>
+<p>All wonderful and rare things in this world carry a significant price tag; otherwise they would be neither rare nor so highly valued. The price tag on our cranes is simply this: we must be willing to protect from destruction the wonderful river that crosses Nebraska like a beautiful quicksilver necklace, the Platte River. Beyond its rich historic value, the Platte is easily the most valuable and most threatened of our surface waters. It is a river that millions of bison once drank from, and one along which tens of thousands of immigrants once passed on their way to building a complete America. Wading in that graceful river is like wading into history; it is a river that offers many quiet gifts to us. Yet these are also rich gifts that we must be willing to protect, cherish, and finally pass on to our children as if they were our collective family's greatest treasures, which in fact they are.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

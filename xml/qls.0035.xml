@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0035" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">The Journals of Lewis and Clark</hi></title>
+<title level="m" type="sub"></title>
+<author>Lewis, Meriwether (1774-1809)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0035</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The entries above are Lewis's first (in Montana) and most detailed (in Idaho) descriptions of the new species of woodpecker that would eventually bear his name. This strikingly unusual woodpecker's range includes forested areas of the western Great Plains, including the Black Hills. It's interesting that Lewis's partner, William Clark, was likewise immortalized in the annals of ornithology through Clark's Nutcracker, a jay-like mountain bird. My commentary must now resort to poetry:
+</p>
+
+<p>TWO BIRDS MEET LEWIS &amp; CLARK (1805-1806)</p>
+
+<lg type="poem">
+<l>I: Lewis's Woodpecker</l>
+<lb/>
+<l>They call me Lewis's Woodpecker.</l>
+<l>I didn't choose that name, but after millennia of me</l>
+<l>hammering at the dead wood of these pine hills . . .</l>
+<l>they came: with maps, and a native woman, and a</l>
+<l>whole mind's-load of old world naturalist terms &amp; knowledge.</l>
+</lg>
+
+<lg type="poem">
+<l>In fact, I guess my real name is Latin now, but I can't even</l>
+<l>begin to pronounce it&#8212;so just call me "Lewie," after that</l>
+<l>guy who kept looking around and writing things down, in a</l>
+<l>fine script, as if he were capturing my feathered soul.</l>
+<l>I heard that he killed himself, only a few years later.</l>
+<l>Why he did is beyond my understanding, but then,</l>
+<l>I am only a bird.</l>
+</lg>
+
+<lg type="poem">
+<l>II: Clark's Nutcracker</l>
+<lb/>
+<l>Well, this Lewis fellow's sidekick was named Clark, and so</l>
+<l>here I am, or how you know me. The only thing else you</l>
+<l>need to know, apparently, is that I crack open</l>
+<l>pine cones for a living.</l>
+<lb/>
+<l>But did you also know that my nickname is "camp robber"?</l>
+<l>Yes, tourists, I'll steal your picnic table blind. But hey, that's</l>
+<l>nothing, compared to what Lewis &amp;</l>
+<l>Clark started, halfway on the</l>
+<l>way to stealing a continent.</l>
+<l rend="indent">&#8212;Tom Gannon, 2007</l>
+</lg>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">The Natural History of the Lewis and Clark Expedition</title>
+<title level="a">from The Journals of Lewis and Clark</title>
+<editor>Raymond Darwin Burroughs, ed.</editor>
+<author>Lewis, Meriwether (1774-1809)</author>
+<publisher>Michigan State University Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">239-240</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1961">1961</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Melanerpes lewis</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Woodpecker_Lewis">Woodpecker, Lewis's</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass> 
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-05"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">The Journals of Lewis and Clark</hi></head>
+<div1>
+
+<p>[July 20th, 1805:]</p>
+<p><gap reason="sampling" /> I saw a black woodpecker <gap reason="sampling" /> today about the size of a lark woodpecker [i.e., Northern Flicker] as black as a crow. I <sic>indeavored</sic> to get a shot at it but could not. it is a distinct species of woodpecker; it has a long tail and flys a good <sic>deel</sic> like the jay bird.</p>
+
+<p>[May 27th, 1806:]</p>
+<p><gap reason="sampling" /> The Black woodpecker which I have frequently mentioned and which is found in most parts of the <sic>roky</sic> Mountains as well as the Western and S. W. mountains, I had never an opportunity of examining untill a few days since when we killed and preserved several of them. this bird is about the size of the lark woodpecker or the turtle dove [i.e., Mourning Dove], tho' it's wings are longer than either of those birds. the beak is black, one inch long, <sic>reather</sic> wide at the base, somewhat curved, and sharply pointed <gap reason="sampling" /> around the base of the beak including the eye and a small part of the throat is of a fine crimson red. the neck and as low as the croop in front is of an iron grey. the belly and breast is a curious mixture of white and blood reed which has much the appearance of having been artificially painted or stained of that colour. the red reather predominates. the top of the head back, sides, upper surface of the wings and tail are black, with a glossey tint of green in a certain exposure to the light. <gap reason="sampling" /> the tongue is barbed, pointed, and of an elastic cartelaginous substance. the eye is moderately large, pu[r]ple black and iris of a dark yellowish brown. this bird in it's action when flying resembles the small redheaded woodpecker common to the Atlantic states; it's note also somewhat resembles that bird. the pointed tail seems to assist it in set[t]ing with more eas[e] or retaining its resting position against the perpendicular side of a tree. <gap reason="sampling" /> it feeds on bugs worms and a variety of insects.</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

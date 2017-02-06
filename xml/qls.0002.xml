@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0002" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">[Song]</title>
+<title level="m" type="sub"></title>
+<author>Sitting Bull <foreign>(Tatanka Iotanka)</foreign> (1831-1890)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0002</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Sitting Bull, the Lakota holy man (<hi rend="italic">wicas<hi rend="sup">h</hi>a wakan</hi>), was a lifelong interlocutor with the birds, including the flicker and the meadowlark, the former saving his life as a young man&#8212;celebrated in the song above&#8212;and the latter forecasting his imminent death on a North Dakota reservation. The flicker song was composed after the bird's hammering on a tree alerted Sitting Bull in time to save himself from a grizzly bear. From that time on, he was indeed a "relative" of the birds.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Sitting Bull: Champion of the Sioux</title>
+<title level="a">[Song]</title>
+    <author>Sitting Bull <foreign>(Tatanka Iotanka)</foreign> (1831-1890), quoted in Vestal, Stanley (1887-1957)</author>
+<!--<editor>Vestal, Stanley (1887-1957)</editor>-->
+<publisher>University of Oklahoma Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">21</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1957">1957 [1932]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Colaptes auratus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Flicker_Northern">Flicker, Northern</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Song</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-10-01"><name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<head>[Song]</head>
+<div1>
+
+<lg>
+<l>Pretty bird, you saw me and took pity on me;</l>
+<l>You wish me to survive among the people.</l>
+<l>O Bird People, from this day always you shall be my relatives!</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

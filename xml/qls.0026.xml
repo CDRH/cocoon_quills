@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0026" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">A Pathetic Little Story</title>
+<title level="m" type="sub"></title>
+<author>Griswold, Sandy (1849-1929)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0026</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The "story" here is an odd combination of the era's general loathing for this bird "from across the water" (Europe) and a particular tear-jerker of a incident that borders on the apocryphal. On the one hand, Griswold has to explain (as if to apologize for) the fact that his wife actually feeds these "little vagabonds" in the winter, despite "our prejudice." On the other hand, the sparrows' apparent altruism&#8212;and the writer himself must express some reservations here&#8212;portrays even this "luckless" tribe as a group of good Christian souls lugging a dying female of their kind towards food and possible salvation. (The "hopping of tiny feet" is a wonderful touch.) But "prejudice" will out, and the newspaper man can only sympathize with the House Sparrow "for the nonce."</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">Omaha Sunday World-Herald</title>
+<title level="a">A Pathetic Little Story</title>
+<author>Griswold, Sandy (1849-1929)</author>
+<publisher>Omaha Sunday World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<biblScope type="page">10-W</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1916-11-26">26 November 1916</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Passer domesticus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Sparrow_House">Sparrow, House</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-01-23"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>A Pathetic Little Story</head>
+<div1>
+<gap reason="sampling" />
+<p>[A]ll this unqualified arraignment of this luckless member of the bird tribe from across the water [the House Sparrow], reminds one of a most interesting and pathetic incident that came under my observation one bitter cold day last January in my own dooryard out in the village of Dundee.</p>
+<p>A little hen sparrow, half frozen and rapidly gasping out the remaining life that remained within its little gray body, had fallen from the roof of the bungalow, under whose eaves a horde of sparrows had taken up their winter quarters, to the cement walk below my bed room window from which we were watching the birds. A moment or two before Mrs. G. had thrown out a bowl full of bread crumbs and other refuse from the luncheon table, as it was her daily task to feed the little vagabonds, notwithstanding our prejudice throughout the summer months, all through the cold and snowy season. When the badly frozen little hen had tumbled from the roof, there was a half score of its famished kind voraciously seizing upon the bounty of the good housewife, but when the dying bird fell and lit some two or three yards from the spot, where they were feeding, the whole bevy flew up and hovered over her for a little while, and finally three or four of them alighted near the unfortunate hen, and after much pulling, hauling and tugging, much distraught fluttering of wings and hopping of tiny feet, dragged the dying bird by wing and tail tip over to where considerable of the scattered bread crumbs still lay upon the snow-packed and frozen earth, and there they left her, by this time cold and stiff in death.</p>
+<p>Just what the meaning of all this was, we did not pretend to solve, whether the birds felt that their gasping comrade might be restored by the repast that had been so fortuitously thrown them, or what, of course, we could not tell. But rest assured it filled our breast with instant pity and for the nonce, all ill-feeling for those little birds was obliterated in this one emotion.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

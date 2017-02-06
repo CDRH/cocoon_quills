@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0022" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Blue Jay</title>
+<title level="m" type="sub"></title>
+<author>Garland, Hamlin (1860-1940)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0022</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>It's hard to admit that one of the first well-known "Midwest" writers could write such doggerel. Raised in part on Iowa and South Dakota farms, Garland happily (for all concerned) found prose fiction and non-fiction to be more his forte. The metaphor "doubt / Did not draw his sailing-chart" is fairly original, and maybe the highlight of the poem. But our bird eventually (and too blithely) becomes one of "us," a "true American"&#8212;that is, a bold and fearless traveler-hero. In fact, he seems more a prototypical <emph>cowboy</emph> than a bird; and when he dies in the penultimate stanza&#8212;folding "his feet up one by one" and turning "his last look at the skies," this modern reader envisions a cartoon cowboy in a Western farce. And thinks that this adventurous avian died two stanzas too late.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Prairie Songs: Being Chants Rhymed and Unrhymed of the Level Lands of the Great West</title>
+<title level="a">The Blue Jay</title>
+<author>Garland, Hamlin (1860-1940)</author>
+<publisher>Stone &amp; Kimball</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">66</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1893">1893</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Cyanocitta cristata</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Jay_Blue">Jay, Blue</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-01-23"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>The Blue Jay</head>
+<div1>
+<lg>
+<l>His eye is bright as burnished steel,</l>
+<l rend="indent">His note a quick defiant cry;</l>
+<l>Harsh as a hinge his grating squeal</l>
+<l rend="indent">Sounds from the keen wind sweeping by.</l>
+</lg>
+
+<lg>
+<l>Rain never dims his smooth blue coat,</l>
+<l rend="indent">The winter never troubles him.</l>
+<l>No fog puts hoarseness in his throat</l>
+<l rend="indent">Or makes his merry eyes grow dim.</l>
+<l>His cry at morning is a shout.&#8212;</l>
+<l rend="indent">His wing is subject to his heart.</l>
+<l>Of fear he knows not&#8212;doubt</l>
+<l rend="indent">Did not draw his sailing-chart.</l>
+</lg>
+
+<lg>
+<l>He is an universal emigre;</l>
+<l rend="indent">His foot is set in every land.</l>
+<l>He greets me by gray Casco bay,</l>
+<l rend="indent">And laughs across the Texas sand.</l>
+<l>In heat or cold, in storm or sun</l>
+<l rend="indent">He lives unfearingly, and when he dies</l>
+<l>He folds his feet up one by one</l>
+<l rend="indent">And turns his last look at the skies.</l>
+</lg>
+
+<lg>
+<l>He is the true American! He fears</l>
+<l rend="indent">No journey and no wood or wall</l>
+<l>And in the desert, toiling voyagers</l>
+<l rend="indent">Take heart of courage from his call.</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

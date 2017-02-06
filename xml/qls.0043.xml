@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0043" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mockingbird</title>
+<title level="m" type="sub"></title>
+<author>Kloefkorn, William (1932-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0043</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>
+While apparently expanding northward (as far as southern Nebraska), the mockingbird is still less familiar to denizens of the northern Great Plains than its close relatives, the Gray Catbird and Brown Thrasher. (And so it is one of the best reasons to visit the southern Great Plains, by the way.) The current Nebraska Poet Laureate expresses a good familiarity with it, nonetheless, in a poem that presents the bird's extroverted, egoistical mimic nature well. The notion that, after imitating so many other species' calls, it also vocalizes its "own dark mind" is a fascinating angle, and this self-mocking authentic call is then metaphorically transformed through the rest of the poem: it becomes the bird's very body (and sheer egoism) exploding, the gray and white feathers suffusing the environment, across and down the river, to the horizon and setting sun.
+</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Loup River Psalter</title>
+<title level="a"></title>
+<author>Kloefkorn, William (1932-)</author>
+<publisher>Spoon Poetry Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">59</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2001">2001</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Mimus polyglottos</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Mockingbird_Northern">Mockingbird, Northern</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-02-20"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Mockingbird</head>
+<div1>
+
+<lg type="poem">
+<l>Now the mockingbird,</l>
+<l>in an effort to be too much of itself,</l>
+<l>mocks more than it can handle,</l>
+</lg>
+
+<lg type="poem">
+<l>egret and gull,</l>
+<l>heron and warbler and shrike,</l>
+<l>its throat encumbered with sound,</l>
+</lg>
+
+<lg type="poem">
+<l>until arriving at the char char char</l>
+<l>of its own dark mind</l>
+<l>it mocks itself,</l>
+</lg>
+
+<lg type="poem">
+<l>swelling the gullet,</l>
+<l>exploding the lungs,</l>
+<l>scattering bone and feather</l>
+</lg>
+
+<lg type="poem">
+<l>all the way to the south-bank</l>
+<l>current in the river,</l>
+<l>where the water, pipeline</l>
+</lg>
+
+<lg type="poem">
+<l>to something more than itself,</l>
+<l>carries them (each fleck</l>
+<l>of white and of grey</l>
+</lg>
+
+<lg type="poem">
+<l>at the end of a slanting sun</l>
+<l>so conspicuous, in this other flight</l>
+<l>so definitively absorbed)</l>
+</lg>
+
+<lg type="poem">
+<l>out and down to where the bridge</l>
+<l>rides high on the crest of its</l>
+<l>shadow before going under.</l>
+</lg>
+
+
+</div1>
+</body>
+</text>
+</TEI>

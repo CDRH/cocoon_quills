@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+<TEI xml:id="qls.0008" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Crane Music: A Natural History of American Cranes</hi></title>
+<title level="m" type="sub"></title>
+<author>Johnsgard, Paul A. (1931- )</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0008</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Nebraskan biologist Paul Johnsgard characteristically adorns his ornithological treatises with marvelous passages like the above, which demonstrate a great deal of poetic power. (Indeed, one might even quibble that the description of the "southern breeze" that "caresses" the grasslands "gently" borders on purple prose.) But the incremental repetition of "There is" skillfully marries river, season, and bird into one "magical time." And the passage ends in a climax of avian sight and sound, with the "deafening crescendo of crane music" and the "maelstrom of circling and descending birds."</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Crane Music: A Natural History of American Cranes</title>
+<title level="a"></title>
+<author>Johnsgard, Paul A. (1931- )</author>
+<publisher>Smithsonian Institution Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">37-39</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1991">1991</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Grus canadensis</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Crane_Sandhill" type="noAudio">Crane, Sandhill</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-19"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Crane Music: A Natural History of American Cranes</hi></head>
+<div1>
+<p>There is a river in the heart of North America that annually gathers together the watery largeness of melting Rocky Mountain snowfields and glaciers and spills wildly down the eastern slopes of Colorado and Wyoming. Reaching the plains, it quickly loses its momentum and begins to spread out and flow slowly across Nebraska from west to east. As it does so, it cuts a sinuous tracery through the native prairies that has been followed for millennia by both men and animals. The river is the Platte.</p>
+<p>There is a season in the heart of North America that is an unpredictable day-to-day battle between bitter winds carrying dense curtains of snow out of Canada and the high plains, turning the prairies into ice sculptures, and contrasting southern breezes that equally rapidly thaw out the native tall grasses and caress them gently. The season is sweetened each dawn by the compelling music of western meadowlarks, northern cardinals, and greater prairie-chickens, and the sky is neatly punctuated throughout the day with skeins of migrating waterfowl. The season is spring.</p>
+<p>There is a bird in the heart of North America that is perhaps even older than the river, and far more wary than the waterfowl or prairie-chickens. It is as gray as the clouds of winter, as softly beautiful and graceful as the flower heads of Indian grass and big bluestem, and its penetrating bugle-like notes are as distinctive and memorable as the barking of a coyote or the song of a western meadowlark. This bird is the sandhill crane.</p>
+<p>There is a magical time that occurs each year in the heart of North America, when the river and the season and the bird all come into brief conjunction. The cranes begin to arrive in Nebraska's Platte valley about the end of February as the Platte begins to become ice-free. They funnel into the valley from wintering areas as far away as northern Mexico, but primarily from eastern New Mexico and adjoining Texas, where a variety of shallow, alkaline lakes have offered them safety through the coldest months. These areas are all at least 600 miles from the Platte, the equivalent of a 12-hour non-stop flight at 50 miles per hour. Some of the birds do stop en route, but probably the majority make the flight in a single day. They achieve their maximum air speed with the aid of south winds, and fly in uniformly spaced gooselike formations for optimum flight efficiency. As they reach the Platte near sunset, the formations begin to break up, and the birds start to circle above the river, looking for safe nighttime roosting sites. The occasional calls of the migrating birds gradually build into a deafening crescendo of crane music. Individual flock members try to maintain voice contact with parents, mates, and offspring as they begin to pour into roost sites on the river, and the darkening sky becomes a maelstrom of circling and descending birds.</p>
+</div1>
+</body>
+</text>
+</TEI>

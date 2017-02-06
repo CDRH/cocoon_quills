@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0081" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Rites of Autumn</title>
+<title level="m" type="sub"></title>
+<author>O'Brien, Dan (1947-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0081</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>This passage from South Dakota falconer, buffalo rancher, and nature writer Dan O'Brien may be more about sagebrush than sage-grouse, but not really; in fact, it's ultimately more a lesson in ecology than anything else, and an important lesson it is, this interconnection between birds, and plants, and habitat&#8212;and humankind. The "moral" is even intimated in the cleverest sentence in the text above: "one begins to wonder if they [the plant and bird] might not be the same substance in different form."</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">The Rites of Autumn: A Falconer's Journey Across the American West</title>
+<title level="a">The Rites of Autumn: A Falconer's Journey Across the American West</title>
+<author>O'Brien, Dan (1947-)</author>
+<publisher>Doubleday</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">49-50</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1988">1988</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Centrocercus urophasianus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Sage-Grouse_Greater" type="noAudio">Sage-Grouse, Greater</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-01"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">The Rites of Autumn</hi></head>
+<div1>
+
+<p>The [Montana] land rolled in long flat valleys, topped by ridges. The sagebrush and grass seemed too homogeneous to support game birds. But sage grouse are different from most game birds in several ways. One of the differences is that they find almost everything they need to survive in one plant. Not only do sage grouse prefer the sweet-smelling gray-green sagebrush, but they also need it. If sagebrush is destroyed so are the sage grouse. Their range is defined by the range of sagebrush. So close is the sage grouse associated with sagebrush that one begins to wonder if they might not be the same substance in different form.
+</p>
+<p>Though sage grouse love sagebrush, man hates it. Over half the sagebrush present on the North American continent before Europeans came here is now gone. It has been grubbed out, plowed under, poisoned, and burned. Because farmers had never seen sagebrush and couldn't grasp that it was a necessary part of this new environment, they destroyed it. Sage grouse, like most wild animals, are highly resistant to the long-term effects of draught [sic]. floods, hunting pressure, freak storms, and natural predation, but they cannot withstand habitat destruction. This is the simplest of ecological facts, yet it is one of the least understood. Some people never seem to understand that increased demand for artichokes and asparagus destroys more wildlife than all the hunters combined.
+</p>
+
+</div1>
+</body>
+</text>
+</TEI>

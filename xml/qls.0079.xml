@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0079" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">My Indian Boyhood</title>
+<title level="m" type="sub"></title>
+<author>Standing Bear, Luther <hi rend="italic">(Mato Najin)</hi> (1868[?]-1939)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0079</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>This book is dedicated to the "boys and girls of America," which explains in part its simple and redundant style. (One might also guess that Standing Bear was writing as his East Coast audience might expect an "Indian" to write.) But his description of the birds' choreography is still delightful. Even more interesting, perhaps, is his curious, semi-assimilated fuddy-duddy moralism, his digs at the Roaring 20's/Jazz Age generation. (If only Standing Bear had lived long enough to witness break-dancing.) Of course part of his moral reaction to young people pulling "all-nighters" issues from his traditional Lakota background. Having learned much from the "habits of birds," a people so imbued in the natural cycles would have deemed it nonsensical to "dance all night and go to bed when the sun is rising." </p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">My Indian Boyhood</title>
+<title level="a">My Indian Boyhood</title>
+<author>Standing Bear, Luther <hi rend="italic">(Mato Najin)</hi> (1868[?]-1939)</author>
+<publisher>University of Nebraska Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">20</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1931">1998 [1931]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Tympanuchus cupido</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Prairie-chicken_Greater">Prairie-Chicken, Greater</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-01"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">My Indian Boyhood</hi></head>
+<div1>
+
+<p>In our hunts we learned much of the habits of birds as well as animals. We watched them closely, for they taught us many things. Birds are graceful beings, and the Indian loves beauty in movement. In his dances the Indian is highly imitative, and many of his steps he gets from the birds. Besides, they have virtues such as industry, kindness, affection, and pride. They have also keen senses that the Indian admires.</p>
+
+<p>On the plains of South Dakota there were in my boyhood many prairie chickens. They were fine to eat, and when we picked them, we saved the wing feathers for our arrows. These birds began to travel south with the cold weather, but there were always a few that lingered behind until after snow fell. They would feed on buffalo berries and on the rosebuds that ripened in the fall. Now, some people may think that human beings were the first to dance, but I do not think so. I believe that the birds danced first. I also believe that they appreciate time and rhythm. I have seen the prairie chickens hold dances as orderly and as well-organized as I have seen humans hold. The dance of the prairie chicken is given at daybreak. A great number of these birds will assemble and form a circle with the leader in the center. Then the circle begins moving to the right, every bird stepping at the same time and the same speed in motion. Their time is so perfect that even if it were performed in silence, it would be wonderful to look at. But the marvelous thing is that every bird makes a sound in his throat that is something like the double beat of the tom-tom. In this, too, the birds keep exact time, so that there are no jarring or conflicting noises, but a steady rhythmic tone. Every bird carries a rattle&#8212;his tail. The feathers of the tail are rubbed together in such a way as to make a sound like a small rattle. Again the time is kept with the tails all moving at the same time in the same way. With feet, voices, and tails moving at the same time, it makes a great sight to see a hundred or more birds performing. Perhaps the Indian is more easily touched and thrilled at such sights as these than the white man&#8212;I do not know. But surely these dances are conducted with a dignity unknown to our modern young people and their silly Charlestons and Blackbottoms. I am a man of the theater and have been for many years, but I would rather see this dance today than any vaudeville number I have ever seen. To me there is a lesson in the fact that these birds rise early in the morning and dance with the rising sun. That is the logical time for creatures of the day to start their activities: not dance all night and go to bed when the sun is rising. Without doubt the prairie chickens enjoy these early morning dances that they perform, for if they discover that some one is watching them, they fly away, showing plainly that they are not pleased at being disturbed. The prairie chicken, the meadowlark, and the crow are  birds that make sounds that can be interpreted into Sioux words. We Sioux knew, of course, that birds and animals came and talked to our medicine men. Our legends tell of the time when bird and animal life communicated with man.
+</p>
+
+</div1>
+</body>
+</text>
+</TEI>

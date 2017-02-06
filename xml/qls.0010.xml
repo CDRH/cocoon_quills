@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0010" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">My People the Sioux</hi></title>
+<title level="m" type="sub"></title>
+<author>Standing Bear, Luther <foreign>(Mato Naji<hi rend="superscript">n</hi>)</foreign> (1868[?]-1939)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0010</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The Western reader's initial response to this passage from Standing Bear's account of his South Dakota childhood may well be one of shock and surprise, at the fact that this songbird was hunted as part of Lakota boys' initiation into hunting-culture manhood, and that the bird apparently served the parents well as a chastising parental surrogate, or "bogeyman." But one shouldn't forget the more fundamental point: the bird <emph>speaks</emph>. Indeed, the meadowlark (<emph>tas<hi rend="superscript">h</hi>iyagnunpa</emph> in Lakota) was traditionally dubbed "the bird who speaks Lakota," and was held in a near-familial positive regard by the Lakota in general (i.e., the adults). Ultimately more interesting&#8212;and poignant&#8212;is Standing Bear's own "fall from animal grace," as it were, in which, through acculturation, he loses his connection with meadowlark language. It was really the human writer here who was "getting too civilized."</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">My People the Sioux</title>
+<title level="a"></title>
+<author>Standing Bear, Luther <foreign>(Mato Najin)</foreign> (1868[?]-1939)</author>
+<publisher>University of Nebraska Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">39</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1928">1975 [1928]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Sturnella neglecta</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Meadowlark_Western">Meadowlark, Western</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>fiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-19"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <title>My People the Sioux</title></head>
+<div1>
+<p>The singing of the meadowlarks would presently draw our attention away from the [Lakota children's] bow game, and we would start off to hunt these birds. The larks in our State, at that time, talked the Sioux language&#8212;at least, we inferred that they did; but in California, where I now live, it is impossible to understand them. Perhaps they are getting too civilized. In our country, we little fellows thought these birds were our enemies, because they would say things to us that we did not care to hear. They would call out a boy's name, and say that "his mamma wanted him," or some other objectionable expression in bird talk. So we did not like to have these birds come near us.</p><gap reason="sampling" />
+
+</div1>
+</body>
+</text>
+</TEI>

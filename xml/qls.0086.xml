@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0086" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from The Rites of Autumn</title>
+<title level="m" type="sub"></title>
+<author>O'Brien, Dan (1947-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0086</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Bear Butte, the setting for the first paragraph, is on the eastern foothills of the Black Hills, near Sturgis, SD; this stunning igneous formation has served as both spiritual mecca for the Lakota and (now) scenic overlook for biker rallies. Here O'Brien alludes to "one of the most awesome events in nature," reminding us that the peregrine is the swiftest in flight of all birds. . . . The subsequent comparison of Crazy Horse and the falcon is powerfully performed, although I'm not sure whether it does justice to either the man or the bird. Crazy Horse was not simply some primitive gesture of instinctual "wildness," and the falcon (as O'Brien so amazingly describes elsewhere) is more than an emblem of noble human martyrdom. (But isn't the "rusty pitch fork" a pointed final touch?) . . . The book's finale&#8212;beginning "Now I spend my time"&#8212;has very much an elegiac tone, and my first reaction is to protest the very sport of falconry as an antiquated (and classist) form of the "blood lust" that informs recreational hunting in general, with the additional sad reality of the (semi-)domestication, even "enslavement," of a wild species. (I am aware of the extenuating circumstances, even humane rationales, behind this practice for particular individual raptors.) The elegiac feeling issues specifically from the painful sense of stasis on the part of the writer and "his" falcon, in contrast to the ongoing seasonal movement of birds in general. Dolly is made as comfortable as possible in her confinement, and even has a constant "view of the Black Hills." But even this seems a painful tease, and I must return to the Crazy Horse analogy myself, imagining the Lakota warrior surviving his surrender, being forced to live on the confines of the reservation, and forever looking north towards the sacred Black Hills.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">The Rites of Autumn</title>
+<title level="a">from <hi rend="italic">The Rites of Autumn</hi></title>
+<author>O'Brien, Dan (1947-)</author>
+<publisher>Doubleday</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">103, 116, 191-192</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1988">1988</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Falco peregrinus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Falcon_Peregrine">Falcon, Peregrine</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-05-01"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">The Rites of Autumn</hi></head>
+<div1>
+
+<p>I watched her [the falcon Dolly] ride the thermal, soaring effortlessly until she became a tiny spot in the blueness thousands of feet above my head. This reminded me: It was time Dolly learned to soar. The thought of it frightened me. Peregrine falcons are soaring masters. It is one of their favorite ways of hunting. They ride a thermal until they are so high that their prey cannot see them. A peregrine stoop from a soar is one of the most awesome events in nature. Dropping from perhaps a mile above the earth, they can dive at speeds approaching 238 miles per hour. The ancestors of the violet-green swallows flying around Bear Butte that day had no doubt witnessed such stoops before the peregrine became extinct in South Dakota. It was hard to believe that a peregrine could control such a stoop well enough to hit the shifty swallows. Soaring was something that Dolly had to learn to survive as a wild peregrine. It was also the best way I knew to lose a peregrine falcon.</p>
+<gap reason="sampling" />
+<p>He [Crazy Horse] was the most respected of all the Indians then. Mari Sandoz, in <hi rend="italic">Strange Man of the Lakota</hi>, quotes an officer who watched the procession [of Crazy Horse finally surrendering at Fort Robinson, NE] as saying, "By God! This is a triumphal march, not a surrender." What Crazy Horse made triumphal was his wildness, his unconquerable freedom. The soldiers hated and feared him for it, but some envied him, because even in captivity he refused to give up. <gap reason="sampling" /> Looking down on the fort from the ridge, I could imagine the claustrophobia of Crazy Horse's last moments and knew that it was envy that killed him. It seemed to me that killing Crazy Horse was an act very much like that of a farmer who, after witnessing a peregrine stoop from the heavens to catch a duck, creeps up on it while it feeds and kills it with a rusty pitch fork.</p>
+<gap reason="sampling" />
+<p>Now I spend my time on the ranch in South Dakota. Dolly will live the rest of her life in a large airy chamber, with padded perches and a view of the Black Hills. </p>
+<gap reason="sampling" />
+<p>Dolly's mature plumage is a dusky slate blue on her back with horizontal black spots on her breast. Her wing has healed completely [from a collision with power wires], but the brightness has never fully returned to her eyes. It is clear to us all that she will never be a wild bird. Now she only flies for a few months each year when Erney and I bring her out to hunt the local ducks and grouse. She has already had one more chance at being wild and free than is reasonable to expect.</p>
+<gap reason="sampling" />
+<p><gap reason="sampling" /> When the first cold front of winter touches me, a chill runs down my back and I can see the birds in my mind. I can feel the ducks begin to fidget on their prairie ponds. I know that they will all be moving soon but still don't know what it all means or how it really works.</p>
+<p>And, when I see the north wind pushing the prairie grass in front of it, I know that it is pushing peregrines too. I know that peregrines are riding it southward. But not Dolly. And not me. We may catch a duck and cook it over an open fire. We may sleep outdoors and watch meteors streak through the belt of Orion. But we will be staying here. We will live out our lives in the center of the continent, surrounded by the movement of birds. We will remain lodged between the greens and browns of the earth and the endless blue of the prairie sky.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

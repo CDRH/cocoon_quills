@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0029" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <title>The Song of the Lark</title></title>
+<title level="m" type="sub"></title>
+<author>Cather, Willa (1873-1947)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0029</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>According to John March's <title>A Reader's Companion to the Fiction of Willa Cather</title> (Greenwood Press, 1993), the Western Meadowlark, "common in Nebraska and the West," is "mentioned in several of Willa Cather's novels," including in the Preface of <title>The Song of the Lark</title> (420). But a quick check there reveals the bird to be the European "skylark," a quite unrelated species and also a bookish, or specifically artsy, reference of the first order. For the book's very title, Cather explains here, does not issue from her home-state songster of fields and fenceposts, but rather from a (real) French painting&#8212;itself called "The Song of the Lark"&#8212;which Thea, the protagonist, sees in a Chicago museum (433, 168). The passage above, perhaps surprisingly, is apparently the only direct reference to the meadowlark in the entire novel and, even here, the lark's song immediately becomes that of a human "heart" drunk on the ideology of "'immigration,'" on the attraction <!-- to? --> a "young and fresh"&#8212;because apparently bare and empty&#8212;land that was really hardly that at all. But a scan of other bird images in the book discloses a similar pattern of using birds as mere metaphor&#8212;most interestingly in the early characterization of Mrs. Archie: "Once she had married," her good looks "vanished like the ornamental plumage which drops away from some birds after the mating season" (34)!</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">The Song of the Lark</title>
+<title level="a"></title>
+<author>Cather, Willa (1873-1947)</author>
+<publisher>Penguin Books</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">186-187</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1915">1999 [1915]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Sturnella neglecta</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Meadowlark_Western">Meadowlark, Western</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Fiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-02"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <title>The Song of the Lark</title></head>
+<div1>
+<gap reason="sampling" /> <p>The train was crossing the Platte River now, and the sunlight was so intense that it seemed to quiver in little flames on the glittering sandbars, the scrub willows, and the curling, fretted shallows.</p>
+<p>Thea felt that she was coming back to her own land. She had often heard Mrs. Kronborg say that she "believed in immigration," and so did Thea believe in it. This earth seemed to her young and fresh and kindly, a place where refugees from old, sad countries were given another chance. The mere absence of rocks gave the soil a kind of amiability and generosity, and the absence of natural boundaries gave the spirit a wider range. Wire fences might mark the end of a man's pasture, but they could not shut in his thoughts as mountains and forests can. It was over flat lands like this, stretching out to drink the sun, that the larks sang&#8212;and one's heart sang there, too. Thea was glad that this was her country, even if one did not learn to speak elegantly there. It was, somehow, an honest country, and there was a new song in that blue air which had never been sung in the world before. It was hard to tell about it, for it had nothing to do with words; it was like the light of the desert at noon, or the smell of the sagebrush after rain; intangible but powerful. She had the sense of going back to a friendly soil, whose friendship was somehow going to strengthen her; a na&#239;ve, generous country that gave one its joyous force, its large-hearted, childlike power to love, just as it gave one its coarse, brilliant flowers.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

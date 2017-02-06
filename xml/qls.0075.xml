@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0075" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bird Poem II</title>
+<title level="m" type="sub"></title>
+<author>Gannon, Thomas C.</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0075</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>One is slightly pleased by the poet's attempt here to imitate the junco's high-pitched sibilance with the alliterative <emph>s</emph>'s, and the speed of the bird's call by the run-together words. But that trick gets old, and the final point-of-view "surprise" that it is the junco itself speaking seems pointless, since the privileging of such an insignificant species is ultimately inane in its very premise. Frankly, I'd hate to have to read "Bird Poem I," and I certainly hope that Mr. Gannon stopped at "II."</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Nebraska Presence: An Anthology of Poetry</title>
+<title level="a">Bird Poem II</title>
+<author>Gannon, Thomas C.</author>
+<editor>Ed. Greg Kosmicki and Mary K. Stillwell</editor>
+<publisher>Backwaters Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">69</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2007">2007</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Junco hyemalis</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Junco_Dark-Eyed">Junco, Dark-Eyed</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-17"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Bird Poem II</head>
+<div1>
+
+<lg type="poem">
+<l>a junco must be a quiet one</l>
+<l>when the dark shell comes, must</l>
+<l>close eyes, wings against the cold</l>
+</lg>
+
+<lg type="poem">
+<l>then white light breeze&#8212;up to sing can sing</l>
+<l>andsingcansingand thank the thawed</l>
+<l>brink of a puddle for a quick drinkandsing</l>
+</lg>
+
+<lg type="poem">
+<l>down to hard snow ground for scattered</l>
+<l>seed singand seed singandseed and</l>
+<l>back to the hard snow pine to sing thanks sing</l>
+</lg>
+
+<lg type="poem">
+<l>as the white light breeze slightens,</l>
+<l>less busy&#8212;preen a wing&#8212;last burst of</l>
+<l>sing&#8212;until all soft, and still, and warm</l>
+</lg>
+
+<lg type="poem">
+<l>then a junco must be silent</l>
+<l>when the dark shell comes, then i must</l>
+<l>close my eyes; my wings; against the cold</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

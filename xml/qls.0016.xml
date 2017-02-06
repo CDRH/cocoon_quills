@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0016" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Turkey Vultures</title>
+<title level="m" type="sub"></title>
+<author>Kooser, Ted (1939-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0016</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Turkey Vultures are the most commonly seen bird of prey on the northern Great Plains. With a wingspan larger than most hawks, the birds in flight, from a distance, may well incite an "ah" of appreciation from the casual observer, at the sheer majesty and ease of their marvelous soaring&#8212;unless the observer realizes that they're "buzzards," eaters of offal, attendants of the dead, and then said observer may shudder from a long-held human-cultural prejudice against these cleansers of the ecosystem. Nebraska poet (and U.S. Poet Laureate) Ted Kooser reiterates the stock reputation of this species, as death-dealing makers of "shrouds," but most of the poem is a re-appreciation that asks us to see them anew, as near-human ("fingers"), as artists ("sewing patterns"), and as casual (and social) loafers like many of us, "taking all the time in the world" as we/they go about the earnest business of living.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Delights &amp; Shadows</title>
+<title level="a">Turkey Vultures</title>
+<author>Kooser, Ted (1939-)</author>
+<publisher>Copper Canyon Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">51</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2004">2004</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Cathartes aura</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Vulture_Turkey" type="noAudio">Vulture, Turkey</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-20"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Turkey Vultures</head>
+<div1>
+
+<lg type="poem">
+<l>Circling above us, their wing-tips fanned</l>
+<l>like fingers, it is as if they are smoothing</l>
+</lg>
+
+<lg type="poem">
+<l>one of those tissue-paper sewing patterns</l>
+<l>over the pale blue fabric of the air,</l>
+</lg>
+
+<lg type="poem">
+<l>touching the heavens with leisurely pleasure,</l>
+<l>just a word or two called back and forth,</l>
+</lg>
+
+<lg type="poem">
+<l>taking all the time in the world, even though</l>
+<l>the sun is low and red in the west, and they</l>
+</lg>
+
+<lg type="poem">
+<l>have fallen behind with the making of shrouds.</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

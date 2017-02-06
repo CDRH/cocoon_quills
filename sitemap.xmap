@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+    <map:components>
+        <map:generators default="file">
+            <map:generator name="search" src="org.apache.cocoon.generation.SearchGenerator" />
+        </map:generators>
+        <map:transformers default="xslt"/>
+        <map:serializers default="xhtmlutf8">
+            <map:serializer logger="sitemap.serializer.xhtml" mime-type="text/html" name="xhtmlutf8" pool-grow="2" pool-max="64" pool-min="2" src="org.apache.cocoon.serialization.XMLSerializer">
+                <doctype-public>-//W3C//DTD XHTML 1.0 Transitional//EN</doctype-public>
+                <doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd</doctype-system>
+                <encoding>US-ASCII</encoding>
+                <omit-xml-declaration>yes</omit-xml-declaration>
+                <indent>yes</indent>
+            </map:serializer>
+        </map:serializers>
+        <map:selectors default="browser"/>
+
+        <map:matchers default="wildcard"/>
+
+    </map:components>
+
+    <map:pipelines>
+
+        <map:component-configurations>
+            <global-variables>
+              <!--  
+              <solr-url>http://cdrhsearch.unl.edu:8080/solr/quills/select/?version=2.2&amp;indent=on</solr-url>
+              -->
+              <solr-url>http://localhost:8983/solr/quills/select?version=2.2&amp;indent=on</solr-url>
+            </global-variables>
+        </map:component-configurations>
+        
+        <!-- For giving Bibliography two XML files -->
+        <map:pipeline internal-only="true">
+            <map:match pattern="three">
+                <map:generate src="xml/qls.intro.xml"/>
+                <map:serialize type="xml"/>
+            </map:match>
+            <map:match pattern="four">
+                <map:generate src="{global:solr-url}&amp;q=*&amp;start=0&amp;rows=50&amp;sort=author%20asc" />
+                <map:serialize type="xml"/>
+            </map:match>
+        </map:pipeline>
+        
+        <!-- For giving Birds two XML files -->
+        <map:pipeline internal-only="true">
+            <map:match pattern="one">
+                <map:generate src="xml/qls.intro.xml"/>
+                <map:serialize type="xml"/>
+            </map:match>
+            <map:match pattern="two">
+                <map:generate src="{global:solr-url}&amp;q=*&amp;start=0&amp;rows=50" />
+                <map:serialize type="xml"/>
+            </map:match>
+        </map:pipeline>
+
+        <map:pipeline>
+
+            <map:match pattern="doc/*.xml">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="doc"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+            <!-- Static Pages -->
+
+            <map:match pattern="^(index.html)?$" type="regexp">
+                <map:generate src="xml/qls.intro.xml" />
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="home"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+            <map:match pattern="intro.html">
+                <map:generate src="xml/qls.intro.xml" />
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="intro"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+            <map:match pattern="about.html">
+                <map:generate src="xml/qls.intro.xml" />
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="about"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+            <map:match pattern="intro.html">
+                <map:generate src="xml/qls.intro.xml" />
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="intro"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="credits.html">
+                <map:generate src="xml/qls.intro.xml" />
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="credits"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+
+
+            <map:match pattern="bibliography.html">
+                <map:aggregate element="newRootElement">
+                    <map:part src="cocoon:/three" element="firstXMLfile"/>
+                    <map:part src="cocoon:/four" element="secondXMLfile"/>
+                </map:aggregate>
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="bibl"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+
+
+            <map:match pattern="birds.html">
+                <map:aggregate element="newRootElement">
+                    <map:part src="cocoon:/one" element="firstXMLfile"/>
+                    <map:part src="cocoon:/two" element="secondXMLfile"/>
+                </map:aggregate>
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="pagetype" value="birds"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+            <map:match pattern="search/index.html">
+
+                <map:act type="request">
+                    <map:parameter name="parameters" value="true" />
+                    <map:parameter name="default.start" value="0" />
+                    <map:parameter name="default.rows" value="10" />
+                    <map:generate
+                        src="{global:solr-url}&amp;q=({url-encode:{request-param:q}})&amp;start={start}&amp;rows={rows}&amp;hl=on&amp;hl.snippets=4"/>
+                    <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                        <map:parameter name="pagetype" value="searchresults" />
+                        <map:parameter name="use-request-parameters" value="false"/>
+                    </map:transform>
+                </map:act>
+                <map:serialize type="html"/>
+            </map:match>
+
+            <map:match pattern="*">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="stylesheets/xslt/tei.p5.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+
+            <map:match pattern="stylesheets/css/**">
+                <map:read src="stylesheets/css/{1}"/>
+            </map:match>
+
+			<map:match pattern="css/**">
+                <map:read src="css/{1}"/>
+            </map:match>
+
+            <map:match pattern="imgs/**">
+                <map:read src="imgs/{1}"/>
+            </map:match>
+
+			<map:match pattern="figures/**">
+                <map:read src="figures/{1}"/>
+			</map:match>
+
+            <map:match pattern="audio/**">
+                <map:read src="audio/{1}"/>
+            </map:match>
+
+			<map:match pattern="js/**">
+                <map:read src="js/{1}"/>
+            </map:match>
+
+            <map:match pattern="*">
+                <map:read src="{1}"/>
+            </map:match>
+            
+            <!--<map:handle-errors type="404">
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="pagetype" value="error"/>
+                </map:transform>
+                <map:serialize status-code="404"/>
+            </map:handle-errors>
+            
+            <map:handle-errors type="500">
+                <map:transform src="stylesheets/xslt/tei.p5.xsl">
+                    <map:parameter name="use-request-parameters" value="true"/>
+                    <map:parameter name="pagetype" value="error"/>
+                </map:transform>
+                <map:serialize status-code="404"/>
+            </map:handle-errors>-->
+
+
+        </map:pipeline>
+    </map:pipelines>
+    </map:sitemap>

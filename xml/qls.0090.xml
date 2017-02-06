@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0090" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from The Rites of Autumn</title>
+<title level="m" type="sub"></title>
+<author>O'Brien, Dan (1947-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0090</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>This episode from O'Brien's trek with Dolly, which takes place near the North Platte River in Nebraska, is something of a suspense story, with the reader left long hanging regarding the eventual fate of his bird. Certainly the author's point of view leads us to empathize with the falcon, versus the "ruthless" owls; the ultimate discovery that she is alive, with that wonderful image of her glistening eye, is an obvious moment of triumphant survival, or at least of great relief on the human's part. And the final leap of empathy in which O'Brien imagines her consciousness of imminent death is indeed powerful. However, there is a great irony here: while the falconer's young raptor-in-training is portrayed as potential victim in a night world of death-boding owls, one should be reminded of the fact that the falcon, too, had no doubt set upon the pheasant just as "ruthlessly." At last, it's a bird-eat-bird world. . . .</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">The Rites of Autumn: A Falconer's Journey Across the American West</title>
+<title level="a">from The Rites of Autumn</title>
+<author>O'Brien, Dan (1947-)</author>
+<publisher>Doubleday</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">120-123</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1988">1988</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Bubo virginianus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Owl_Great-Horned">Owl, Great-Horned</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-05-14"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head><hi rend="italic">from The Rites of Autumn</hi></head>
+<div1>
+
+<gap reason="sampling" /><p>[W]e waited to see if Dolly [the Peregrine Falcon] would come back. I rated the chances of her catching the [pheasant] rooster at fifty-fifty and although it would have been nice for Dolly to make a kill, I would have been happy to see her coming back. The thought of her out in the open, feeding on a pheasant in the dark, frightened me. She would be difficult to find and night is a dangerous time for a peregrine on the ground.</p>
+<p>She did not come back and after five minutes it was too dark for her to fly. We returned to the pickup to get the telemetry receiver. <gap reason="sampling" /> I got a signal immediately and the rhythmic beep-beep was reassuring. As long as there is a signal, the falcon does not seem to be lost. The signal is directional, and it indicated that Dolly was somewhere near the small grove of trees that the pheasant had probably tried to reach. <gap reason="sampling" /> Then I heard another sound, and a chill ran up my back. I turned the receiver off and identified the bass tones of a great horned owl. Suddenly I wanted silence. But the hoots continued and it was clear that they were coming from the same direction as the transmitter signal.</p>
+<p>I quickened my pace, listening first to the owl and then to the receiver. Dolly was not moving, which might mean that she had caught the pheasant. But the owl was not moving either, which might mean it had caught Dolly. Peregrines cannot see well at night, and they are preyed upon ruthlessly by great horned owls. In the daylight peregrines will kill great horned owls, if given a chance, but a peregrine wrestling a pheasant in the dark is defenseless against a great horned owl. I had taken the flashlight from the hawking bag when we left the pickup. Now I turned it on hoping it might frighten the owl. I could just make out the silhouette of the trees against the sky when a second owl began to hoot. This was not unusual; great horned owls are often found in pairs or family groups. The line of trees was a likely nesting territory and because great horned owls do not move much, they probably used it all year long. Over the years the owls of that tree grove might have caught many young falcons and small hawks they saw catch game just at dark. Only birds of prey with experience would recognize the danger hidden in the trees.</p>
+<p>The receiver indicated that we were close to Dolly, or what was left of her. Enough time had elapsed that the owls could have made a meal of her, and I was sick as I searched the ground with the flashlight. I cast the beam over the ground where Dolly should have been but saw nothing. Then I rechecked the receiver, and again, it indicated that I was very near the transmitter. For one terrible second it occurred to me that the owls had eaten part of her and carried the rest of her to the trees, leaving only the leg with the transmitter. I ran the flashlight beam over the ground again and saw nothing. The owls continued to mock me from the trees. <gap reason="sampling" /> [I] heard a hawk bell. Dolly was less than five feet in front of me. She lay perfectly still, her wings outstretched and her head turned to the side. For an instant I thought she was dead. But one dark eye looked upward at me and glistened at the edge of the flashlight beam. She adjusted as I approached and the bell sounded faintly.</p>
+<p>When I sat beside her she stood, revealing the rooster pheasant. It was dead, but not a feather was out of place. Probably Dolly had seen the owls in the trees just after she killed the pheasant. She had lain down so the owls would not see her or the pheasant. Her instincts had saved her, and I did not dwell on how close it had been. I wondered what she had felt like, lying on her face in the corn stubble knowing that death was out there in the blackness and that her only chance was to remain absolutely still until dawn.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0076" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Badger Said This</title>
+<title level="m" type="sub"></title>
+<author>Cook-Lynn, Elizabeth (1930-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0076</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The Dakota (and South Dakota) author relates some charming cultural beliefs about the meadowlark, and then tells a sad autobiographical tale that ends with great understatement regarding the bird's unnecessary death. A beautiful and important sound is no longer there; we a left with just the look in the elder's eyes. . . . Like the related Lakota word, <hi rend="italic">tas[<hi rend="superscript">h</hi>]iyagnunpa</hi>, the Dakota <hi rend="italic">tas[h]iyakapopa</hi> is obviously onomatopoeic in origin: the bird's lauded vocal outburst is thus evident in its very name.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Then Badger Said This</title>
+<title level="a"></title>
+<author>Cook-Lynn, Elizabeth (1930-)</author>
+<publisher>Ye Galleon Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">14</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1994">1983</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Sturnella neglecta</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Meadowlark_Western">Meadowlark, Western</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-01"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Then The Badger Said This</hi></head>
+<div1>
+
+<p>The little meadowlark, <hi rend="italic">tas[h]iyakapopa</hi>, is the most beautiful of all birds and the most durable. She has a yellow breast like the yellow of morning and she wears a black necklace made from a buffalo horn. To the Sioux, her song speaks of all things in man's consciousness: desire and love, fidelity and courage, perseverence [sic] and labor, and strength. Because she builds her nest on the ground, her young are in constant danger from predators; thus, many legends tell of her courage as a mother. Significantly, these legends say it is her <hi rend="italic">song</hi> which she uses to make herself strong. One late spring afternoon many years ago Chunskay and I were riding with Old Man in the wagon, and I felt warm and sleepy sitting on the tailgate bumping along the dirt trail. I drowsed, letting my brown stockinged legs dangle in the dust, something I would never do in August when I thought the rattlesnakes were changing their skins and could neither see nor hear. Chunskay was shooting at many objects with his slingshot, and the only sounds which fell on my ears were the whiz-z-z and whir-r-r-p of the pebbles from his sling. Suddenly and without warning Chunskay "got luck" and felled a meadowlark with his pebble; midsong, the little bird dropped to the earth. The leather reins fell from Old Man's hands, and when I looked into his eyes I knew that there had been another sound in the air. After that, I listened for it.</p> 
+
+</div1>
+</body>
+</text>
+</TEI>

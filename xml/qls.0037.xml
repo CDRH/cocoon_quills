@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0037" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">From <hi rend="italic">A Cycle of the West</hi></title>
+<title level="m" type="sub"></title>
+<author>Neihardt, John G. (1881-1973)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0037</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>In the two "Indian" books of the <hi rend="italic">Cycle</hi>, <hi rend="italic">The Song of the Indian Wars</hi> and <hi rend="italic">The Song of the Messiah</hi>, Nebraskan poet laureate Neihardt writes of the deaths of Crazy Horse and Sitting Bull, of the Ghost Dance and Wounded Knee, with a great deal of power and empathy. The two passages above involve moments in which the Lakota culture was at its nadir, and their emotional impact derives from the ironic juxtaposition of a despairing people and a natural world that would get on with the annual rebirth of spring but must be infected with the depressed human mood via the sympathetic fallacy. . . . Unless Neihardt is confusing the Whooping Crane with the Sandhill, his allusions here are already nostalgic invocations of a time past, since the former species was already rare and endangered by the early 20th century. Indeed, it's hard not to find parallels in the species' near-extinction and the fate of the Lakota, a "doomed" people for whom Neihardt insists upon writing an elegy, both in the <hi rend="italic">Cycle</hi> and in <hi rend="italic">Black Elk Speaks</hi>. Thankfully, both this bird and this tribal culture are making comebacks.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">A Cycle of the West</title>
+<title level="a"></title>
+<author>Neihardt, John G. (1881-1973)</author>
+<publisher>University of Nebraska Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">410-411, 422-423</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1991">1991 [1915-1941]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Grus americana</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Crane_Whooping" type="noAudio">Crane, Whooping</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-19"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">A Cycle of the West</hi></head>
+<div1>
+
+<lg type="poem">
+<l rend="indent">But yonder, with the crow</l>
+<l>and kiote to applaud his pomp of woe,</l>
+<l>The last great Sioux rode down to his defeat.</l>
+<gap reason="sampling" />
+<l><gap reason="sampling" />O sad it was to hear</l>
+<l>How all the pent-up music of the year</l>
+<l>Surged northward there the way it used to do!</l>
+<l>In vain the catbird scolded at the Sioux;</l>
+<l>The timid pewee queried them in vain;</l>
+<l>Nor might they harken to the whooping crane</l>
+<l>Nor heed the high geese calling them to come.</l>
+<l>Unwelcome waifs of winter, drab and dumb,</l>
+<l>Where ecstasy of sap and thrill of wing</l>
+<l>Made shift to flaunt some color or to sing</l>
+<l>The birth of joy, they toiled a weary way.</l>
+<l>And giddy April sobered into May</l>
+<l>Before they topped the summit looking down</l>
+<l>Upon the valley of the soldier's town</l>
+<l>At Robinson.</l>
+<l rend="indent">(from <hi rend="italic">The Song of the Indian Wars</hi> [1925])</l>
+</lg>
+
+<lg type="poem">
+<l>True to an empty ritual of faith</l>
+<l>The geese came chanting as they used to do</l>
+<l>When there was wonder yet; when, blue on blue,</l>
+<l>The world was wider than a day in June,</l>
+<l>And twice the northbound bison lost the moon</l>
+<l>Trailing the summer up the Sioux domain.</l>
+<l>What myriads now would hear the whooping crane</l>
+<l>And join the green migration?</l>
+</lg>
+
+<lg type="poem">
+<l><gap reason="sampling" /></l>
+<l>Among the public cottonwoods and oaks</l>
+<l>The shrill jays coupled and the catbird screamed,</l>
+<l>Delirious with the dream the old Earth dreamed</l>
+<l>of ancient nuptials, ecstasies that were.</l>
+<l><gap reason="sampling" /></l>
+<l>And every morning the deluded lark</l>
+<l>Sang hallelujah to a widowed world.</l>
+<l rend="indent">(from <hi rend="italic">The Song of the Messiah</hi> [1935])</l>
+</lg>
+
+
+</div1>
+</body>
+</text>
+</TEI>

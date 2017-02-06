@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0074" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Great Blue Heron</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0074</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>This is the second Great Blue Heron poem by Nebraska poet Twyla Hansen in this digital collection. Which do you prefer, and why? In this poem, what phrases do you find to be most effective? (I lean towards "stalks the dark shallows" and "orange season.") How do you explain the apparently radical break in subject matter between the first two stanzas and the last, which introduces "we"? What is the connection (and contrast)? Is the "message" of the final stanza too didactic, or powerfully appropriate?</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Prairie Suite: A Celebration</title>
+<title level="a">Great Blue Heron</title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>Spring Creek Prairie Audubon Center</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">20</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2006">2006</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Ardea herodias</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Heron_Great_Blue">Heron, Great Blue</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-17"><name>Charise G. Alexander </name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Great Blue Heron</head>
+<div1>
+
+<lg type="poem">
+<l>At twilight it rises off the polished mirror pond,</l>
+<l>on cupped wings moves gray and steady above</l>
+<l>the ripples of grassland, circling only to circle back.</l>
+</lg>
+
+<lg type="poem">
+<l>All day it stalks the dark shallows for a meal,</l>
+<l>all this orange season on stick-legs trolls to survive,</l>
+<l>sporting its feather necklace, its backward head plume.</l>
+</lg>
+
+<lg type="poem">
+<l>Often we are strangers to Earth, stumbling over the thorns</l>
+<l>of our days. Here, sky sets fire to the silk sleeves</l>
+<l>of its clouds. If you love this planet, stand at attention,</l>
+<l>take only what you need, only what is rightfully yours.</l>
+</lg>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0052" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Earth, Water, and Sky</hi></title>
+<title level="m" type="sub"></title>
+<author>Johnsgard, Paul A. (1931-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0052</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Besides the well-known Barn Swallow, the rusty-rumped Cliff Swallow joins the Bank Swallow and Northern Rough-winged Swallow as other quite common Great Plains swallows. Besides its allusions to "carcasses" and "corpses," Johnsgard's tale of death is especially jarring because, as accustomed as we have become to viewing swallows as eternal sky-dwellers, the image of so many of them "staggering" on the ground after a spring storm seems a tragic anachronism.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Earth, Water and Sky:  A Naturalist's Stories and Sketches</title>
+<title level="a">from <hi rend="italic">Earth, Water, and Sky</hi></title>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>University of Texas Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">xv</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1999">1999</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Petrochelidon pyrrhonota</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Swallow_Cliff">Swallow, Cliff</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-03-25"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Earth, Water, and Sky</hi></head>
+<div1>
+
+<p>Cedar Point in summer thus presents an idyllic scene, but these superficialities sometimes mask the realities of life and death that occur in the day-to-day struggles for existence among all the resident wildlife. Only a month ago a prolonged period of cold, rainy weather struck just after the Cliff Swallows had returned from their wintering grounds in South America, at a time when the birds were desperate for fresh insect food. The few insects that had already emerged suddenly disappeared, and the swallows died by the uncounted thousands. One of the Cedar Point researchers gathered up to 1,800 swallow carcasses in a short time. Even today, a month later, one can still see the dried-out corpses of swallows that froze or starved while huddling together for warmth in their last-year's adobe nests, their bodies still clinging to their nest interiors like victims of a genocidal slaughter. Similarly, a late-May snowstorm a few years ago literally knocked flocks of Cliff Swallows out of the sky; hundreds of weakened and dying birds could then be seen staggering along roadsides in a futile search for frozen insects.</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

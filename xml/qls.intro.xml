@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="qls.intro">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Introduction</title>
+<title level="m" type="sub"></title>
+<author>Gannon, Thomas C.</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.intro</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p></p>
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="species">
+<term></term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-05-20"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+    
+<div1 type="home">
+<p>This project is a documentation of the literary relationship between Great Plains humans and birds, ranging from the writings of the famous explorer-visitors mentioned above to such contemporary Midwestern literary luminaries as U.S. Poet Laureate Ted Kooser. The nearly one hundred literary-text entries span almost two hundred years, include both poetry and prose, and evidence both Native American and mainstream Euro-American responses to the birds of this unique environment.</p></div1>
+
+<div1 type="intro">
+    <head>Introduction</head>
+<p>In Willa Cather's <hi rend="italic">My &#193;ntonia</hi> (1918), the narrator Jim Burden experiences an ontological crisis of sorts upon his first view of the U.S. Great Plains, as if he were face-to-face with a geographical vacuum: "There seemed to be nothing to see; no fences, no creeks or trees, no hills or fields. If there was a road, I could not make it out in the faint starlight. There was nothing but land: not a country at all, but the material out of which countries are made" (New York: Everyman's Library, 1996: 6-7). But of course these plains were actually teeming with the "countries" of other species, as already recorded in the 19th-century journals of Lewis and Clark, and John James Audubon, and George A. Custer. If the dominant large mammal, the American Bison, had already had its numbers decimated by hunting and outright slaughter, the songs of the meadowlark and the flights of the crane still attested to a bioregion very much alive and vibrant. Cather also conveniently (and characteristically) ignores other human civilizations&#8212;those of the Native Americans&#8212;who had peopled these plains for millennia, and whose own myths, folklore, and songs revealed a longtime close co-evolution with not only the bison but the birds of this region.</p>
+<p>This project is a documentation, then, of the literary relationship between Great Plains humans and birds, ranging from the writings of the famous explorer-visitors mentioned above to such contemporary Midwestern literary luminaries as U.S. Poet Laureate Ted Kooser. The nearly one hundred literary-text entries span almost two hundred years, include both poetry and prose, and evidence both Native American and mainstream Euro-American responses to the birds of this unique environment.</p>
+<p>For the purposes of this project, the "northern Great Plains" is defined as ranging, north to south, from south-central Canada to Kansas and, west to east, from eastern Montana, Wyoming, and Colorado (that is, east of the Rockies) to western Minnesota, Iowa, and Missouri. Fifty-seven bird species are treated here, from swans to sparrows, with a geographical range of eight states. Not surprisingly, such iconic Great Plains birds as the Sandhill Crane and the Western Meadowlark have received a great deal of literary ink through the years; but it is just as interesting that the Lesser Yellowlegs, the European Starling, and even the Turkey Vulture have also received their due. Thus this project is finally a tribute to what is seldom acknowledged, that there is indeed a great diversity of avifauna in the Great Plains&#8212;and that some pretty good writing has been happening here, too.</p>
+    
+<!-- Acknowledgements? -->
+</div1>
+    
+<div1 type="about">
+    <head>About</head>
+<p>Humanities digital research has been blessed by a good deal of web-based work specializing in a specific author or even text, or upon a more general historical era or field of study &#8212; all of which, however, fit quite comfortably within the Library-of-Congress organizational schema (if you will) of traditional academics. And yet perhaps the greatest strength of digital media&#8212;and a potential just barely being realized in academia&#8212;is its hypertextual and multimedia ability to combine a variety of subject matters, even disciplines, into a single conceptual "Space." Furthermore, this special ability should be fostered, one would think, by any pedagogical philosophy (i.e., the humanities) that values open-ended thinking, interdisiplinarity, and diversity.</p>
+<p><hi rend="italic">Quills &amp; Feathers: Literary Birds of the Northern Great Plains</hi> is a site devoted to literature, to authors and their poetry, fiction, and nonfiction prose, centered on the northern Great Plains. It is a digital resource that intertwines the ornithology and literature of our particular bioregion.</p>
+
+<div2>
+<head>Project Director</head>
+<list>
+<item>Thomas C. Gannon, Associate Professor, Department of English</item>
+</list>
+</div2>
+
+<div2>
+<head>CDRH Project Team</head>
+<list>
+<item>Katherine Walter, CDRH Co-Chair</item>
+<item>Becky Aiken, Undergraduate Student Designer</item>
+<item>Charise Alexander, Graduate Research Assistant</item>
+<item>Karin Dalziel, Digital Resources Designer</item>
+<item>Laura Weakly, Metadata Encoding Specialist</item>
+</list>
+</div2>
+
+</div1>
+    
+<div1 type="bibl">
+    <head>Bibliography</head>
+    <p><hi rend="italic">Quills &amp; Feathers: Literary Birds of the Northern Great Plains</hi> includes both Native luminaries such as Black Elk and Standing Bear, and, of course, Euro-American figures from 19th-century pioneer literature, through George A. Custer, Willa Cather, and other canonical Plains writers, to the recent Poet Laureate of the United States Ted Kooser. In line with interdisciplinarity, the writing of the naturalists of this region &#8212; e.g. John Janvocy and Paul Johnsgaard &#8212; are included.</p>
+</div1>
+    
+<div1 type="birds">
+   <head>The Birds</head>    
+    <p><hi rend="italic">Quills &amp; Feathers: Literary Birds of the Northern Great Plains</hi> includes the main bird species of our region, with the the proper scientific apparati, a color photo, and, when available, audio recordings&#8212;the oral "text"&#8212;of said species.</p>
+</div1>
+    
+<div1 type="credits">
+    
+
+    
+    <div2 type="bird" xml:id="Jerry_Oldenettel">
+        <head>Header Image</head>
+        <bibl type="image">Jerry Oldenettel <ptr target="http://www.flickr.com/photos/jroldenettel/2272045653/" /></bibl>
+    </div2>
+    
+    
+    <div2 type="bird" xml:id="innoxiuss">
+        <head>Header Image</head>
+        <bibl type="image">innoxiuss <ptr target="http://www.flickr.com/photos/innoxiuss/2665404220/" /></bibl>
+    </div2>
+    
+<div2 type="bird" xml:id="Blackbird_Red-Winged">
+<head>Red-winged Blackbird</head>
+<p><name type="scientific">Agelaius phoeniceus</name></p>
+    <bibl type="image">Thomas C. Gannon</bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Don Jones</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Cowbird_Brown-headed">
+<head>Brown-headed Cowbird</head>
+<p><name type="scientific">Molothrus ater</name></p>
+    <bibl type="image">Thomas C. Gannon</bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chris Parrish</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Crane_Sandhill">
+<head>Sandhill Crane</head>
+<p><name type="scientific">Grus canadensis</name></p>
+<bibl type="image">Howard Ignatius <ptr target="http://www.flickr.com/photos/howardignatius/4106848300/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Crane_Whooping">
+<head>Whooping Crane</head>
+<p><name type="scientific">Grus americana</name></p>
+    <bibl type="image">blueid_bbw<ptr target="http://www.flickr.com/photos/blueid_bbw/1488843020/" /></bibl>
+</div2>	
+
+<div2 type="bird" xml:id="Curlew_Long-Billed">
+<head>Long-billed Curlew</head>
+<p><name type="scientific">Numenius americanus</name></p>
+    <bibl type="image">sigmaeye<ptr target="http://www.flickr.com/photos/sigmaeye/2586964977/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Dove_Mourning">
+<head>Mourning Dove</head>
+<p><name type="scientific">Zenaida macroura</name></p>
+    <bibl type="image">Thomas C. Gannon</bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+
+
+<div2 type="bird" xml:id="Falcon_Peregrine">
+<head>Peregrine Falcon</head>
+<p><name type="scientific">Falco peregrinus</name></p>
+    <bibl type="image">gordilly<ptr target="http://www.flickr.com/photos/gordilly/1461246874/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Flicker_Northern">
+<head>Northern Flicker</head>
+<p><name type="scientific">Colaptes auratus</name></p>
+<bibl type="image">Devlon Duthie <ptr target="http://www.flickr.com/photos/devlon/2383537611/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chris Parrish	</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Grackle_Common">
+<head>Common Grackle</head>
+<p><name type="scientific">Quiscalus quiscula</name></p>
+<bibl type="image">Thomas C. Gannon</bibl>
+<bibl type="audio">Lang Elliot	<ptr target="http://beemp3.com/download.php?file=2272239&amp;song=Common+Grackle" /></bibl>
+</div2>
+
+<div2 type="bird" xml:id="Harrier_Northern">
+<head>Northern Harrier</head>
+<p><name type="scientific">Circus cyaneus</name></p>
+<bibl type="image">Len Blumin  <ptr target="http://www.flickr.com/photos/lenblumin/3138958746/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Hawk_Red-tailed">
+<head>Red-tailed Hawk</head>
+<p><name type="scientific">Buteo jamaicensis</name></p>
+    <bibl type="image">ndomer73<ptr target="http://www.flickr.com/photos/ndomer73/3215035828/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chartier </bibl>
+</div2>
+
+<div2 type="bird" xml:id="Heron_Great_Blue">
+<head>Great Blue Heron</head>
+<p><name type="scientific">Ardea herodias</name></p>
+<bibl type="image">Mike Baird  <ptr target="http://www.flickr.com/photos/mikebaird/490785635/" /></bibl>
+    <bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Carter</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Hummingbird_Calliope">
+<head>Calliope Hummingbird</head>
+<p><name type="scientific">Stellula calliope</name></p>
+    <bibl type="image">randomtruth<ptr target="http://www.flickr.com/photos/randomtruth/2840648081/" /></bibl>
+</div2>
+
+<div2 type="bird" xml:id="Jay_Blue">
+<head>Blue Jay</head>
+<p><name type="scientific">Cyanocitta cristata</name></p>
+    <bibl type="image">hlkljgk<ptr target="http://www.flickr.com/photos/hlkljgk/410567396/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chris Parrish</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Junco_Dark-Eyed">
+<head>Dark-eyed Junco</head>
+<p><name type="scientific">Junco hyemalis</name></p>
+<bibl type="image">Thomas C. Gannon</bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chris Parrish	</bibl>
+</div2>
+
+    <div2 type="bird" xml:id="Magpie_Black-Billed">
+<head>Black-billed Magpie</head>
+<p><name type="scientific">Pica hudsonia</name></p>
+<bibl type="image">Jim Frazier  <ptr target="http://www.flickr.com/photos/jimfrazier/26483439/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Meadowlark_Western">
+<head>Western Meadowlark</head>
+<p><name type="scientific">Sturnella neglecta</name></p>
+    <bibl type="image">slomaggie<ptr target="http://www.flickr.com/photos/slomaggie/3032421935/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chris Parrish	</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Mockingbird_Northern">
+<head>Northern Mockingbird</head>
+<p><name type="scientific">Mimus polyglottos</name></p>
+<bibl type="image">Len Blumin  <ptr target="http://www.flickr.com/photos/lenblumin/2568199462/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chris Parrish</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Owl_Barn">
+<head>Barn Owl</head>
+<p><name type="scientific">Tyto alba</name></p>
+    <bibl type="image">Picture Taker 2<ptr target="http://www.flickr.com/photos/80835774@N00/2139251117/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Pigeon_Passenger">
+<head>Passenger Pigeon</head>
+<p><name type="scientific">Ectopistes migratorius</name></p>
+<bibl type="image">Wikipedia<ptr target="http://commons.wikimedia.org/wiki/File:Ectopistes_migratoriusFCN2P29CA.jpg" /></bibl>
+</div2>
+
+<div2 type="bird" xml:id="Pipit_Sprague">
+<head>Sprague's Pipit</head>
+<p><name type="scientific">Anthus spragueii</name></p>
+    <bibl type="image">jroldenettel<ptr target="http://www.flickr.com/photos/jroldenettel/2061267572/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer	</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Prairie-chicken_Greater">
+<head>Greater Prairie-Chicken</head>
+<p><name type="scientific">Tympanuchus cupido</name></p>
+<bibl type="image">Rebecca Boyd <ptr target="http://www.flickr.com/photos/rebeccaboydphotography/520190921/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Don Jones	</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Sage-Grouse_Greater">
+<head>Greater Sage-Grouse</head>
+<p><name type="scientific">Centrocercus urophasianus</name></p>
+    <bibl type="image">ndomer73<ptr target="http://www.flickr.com/photos/ndomer73/1024638742/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Mike Nelson</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Sandpiper_Upland">
+<head>Upland Sandpiper</head>
+<p><name type="scientific">Bartramia longicauda</name></p>
+    <bibl type="image">pesayo<ptr target="http://www.flickr.com/photos/23935478@N03/3423957245/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Owl_Great-Horned">
+<head>Great Horned Owl</head>
+<p><name type="scientific">Bubo virginianus</name></p>
+    <bibl type="image">BugMan50<ptr target="http://www.flickr.com/photos/57402879@N00/239880695/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Carter</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Sparrow_Lark">
+<head>Lark Sparrow</head>
+<p><name type="scientific">Chondestes grammacus</name></p>
+<bibl type="image">Len Blumin  <ptr target="http://www.flickr.com/photos/lenblumin/2112335228/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Don Jones</bibl>
+</div2>	
+
+<div2 type="bird" xml:id="Sparrow_Harris">
+<head>Harris's Sparrow</head>
+<p><name type="scientific">Zonotrichia querula</name></p>
+    <bibl type="image">tomfs<ptr target="http://www.flickr.com/photos/tomfs/3207752037/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Driver</bibl>	
+</div2>
+
+<div2 type="bird" xml:id="Sparrow_House">
+<head>House Sparrow</head>
+<p><name type="scientific">Passer domesticus</name></p>
+    <bibl type="image">noelzialee<ptr target="http://www.flickr.com/photos/noelzialee/298937843/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Alan Cartier	</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Swallow_Cliff">
+<head>Cliff Swallow</head>
+<p><name type="scientific">Petrochelidon pyrrhonota</name></p>
+<bibl type="image">Philip Bouchard  <ptr target="http://www.flickr.com/photos/pbouchard/493091581/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Chris Parrish</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Vulture_Turkey">
+<head>Turkey Vulture</head>
+<p><name type="scientific">Cathartes aura</name></p>
+    <bibl type="image">Thomas C. Gannon</bibl>
+</div2>
+
+<div2 type="bird" xml:id="Woodpecker_Lewis">
+<head>Lewis's Woodpecker</head>
+<p><name type="scientific">Melanerpes lewis</name></p>
+<bibl type="image">Len Blumin  <ptr target="http://www.flickr.com/photos/lenblumin/2093298221/" /></bibl>
+    <bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212;  Andrew Spencer	</bibl>
+</div2>
+
+
+<div2 type="bird" xml:id="Yellowlegs_Lesser">
+<head>Lesser Yellowlegs</head>
+<p><name type="scientific">Tringa flavipes</name></p>
+<bibl type="image">Jean-Guy  <ptr target="http://www.flickr.com/photos/13101875@N00/122277156/" /></bibl>
+<bibl type="audio"><ref target="http://www.xeno-canto.org/">Xeno</ref> &#8212; Andrew Spencer</bibl>	
+</div2>
+</div1>
+
+</body>
+
+</text>
+</TEI>

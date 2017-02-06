@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0080" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Prairie Chicken</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0080</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Pardon a serendipitous commentary, but when I just read this poem again, I thought how much of the poem's emotive and descriptive diction applied to the Native Americans of the plains, many of whose dances were patterned upon the local prairie-chickens and grouse. For both Indian and bird, one sees "the male, in feather-fan"&#8212;or "spirit feather"&#8212;dancing in "sacred ceremony"; having been "stalked . . . nearly to extinction," both are now more "legendary" than legion; and the neo-Romantic poet must wax nostalgic, for past "millennia," yearning herself for such culturally integral "strength" and "purpose." </p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Prairie-Chicken</title>
+<title level="a">Prairie Suite: A Celebration</title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>Spring Creek Prairie Audubon Center</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">5</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2006">2006</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Tympanuchus cupido</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Prairie-chicken_Greater">Prairie-chicken, Greater</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-01"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">My Indian Boyhood</hi></head>
+<div1>
+
+<p></p>
+
+<p>
+</p>
+
+</div1>
+</body>
+</text>
+</TEI>

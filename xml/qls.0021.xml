@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0021" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cheerful Mourning</title>
+<title level="m" type="sub"></title>
+<author>Editor [possibly Greenleaf, Miles (1886-1951)]</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0021</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The editorial writer laudably calls into question the human projection of "mourning" upon this bird's well-known ooh-AH-ooooh-ooooh-ooooh call; but in doing so, he no doubt errs just as much in the opposite direction in claiming the bird's mood to be that of a rather utopian happiness and hope. The species is also a bird of good family values, and it's "[u]seful and self supporting," moreover, as if fulfilling the writer's ideal of a good bourgeois citizen. But its greatest "use," for the editorialist, at least, is to move our conscience and quell our "trigger-finger[s]"&#8212;to "remind us," at last, "of the murdered Passenger Pigeon."</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">Omaha Sunday World-Herald</title>
+<title level="a">Cheerful Mourning</title>
+<author>Editor [possibly Greenleaf, Miles (1886-1951)]</author>
+<publisher>Omaha Sunday World Herals</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<biblScope type="page">10-E</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1922-05">May 1922</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Zenaida macroura</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Dove_Mourning">Dove, Mourning</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-01-23"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Cheerful Mourning</head>
+<div1>
+<p>In the strip of woods, with the dusty road marking its brown course by fringes of dirty weeds beside, and the grain field across to tell that thrift is there, as well as the gaunt poles with wires <sic>stretcher</sic> thereover&#8212;here is the cheerfulest bird in the world&#8212;the Mourning Dove.</p>
+<p>Paradox itself, this Mourning Dove brings us everything in love and sweetest happiness. Its low-toned and flutelike murmur was never meant for sadness, but heralds the quietude and peace that one would find in sequestered places.</p>
+<p>Mourning Dove, loveliest of father and mother, and least fearful of humans who until a few years ago destroyed it ruthlessly because it was an easy victim and toothsome&#8212;intones by day and even by night its somber lullaby to creatures beneath the Heavens.</p>
+<p>You will find these splendid instruments of soft heartsongs in the dim fastness of the conifer copse, or in the lone and half-dead poplar, or in some humble underbush whacked ruthlessly by counter gales from whizzing autos.</p>
+<p>But wherever found, or wherever seen&#8212;that happy and hopeful mourning song will come to tell us that these silky feathered bits of loveliness are carrying on, and raising their gentle families and pitying us for our harsh worldliness as we lust for them with loaded gun, pausing only our trigger-finger because a wise government has warned us nay.</p>
+<p>Useful and self supporting dove, the last suggestion we have in this territory to remind us of the murdered Passenger Pigeon, it is hoped that the farmers and their kindred citizens soon realize your value, and that in days of passion your song from the meagerly hidden nest may cease to be one of mournings, and be truly interpreted as one of hope and of courage.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

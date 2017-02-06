@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0059" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Upland Sandpiper</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0059</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The Upland Sandpiper is indeed peculiar, as a member of a "shorebird" family who is itself more at home among the Western Meadowlarks and Dickcissels of the Midwestern grasslands, where its unworldly whistle still renders the prairie a little wilder than we have become used to. This poem is both an attempt to recapture some of that "undiminished" wildness, and to put it in its post-industrial perspective, within a more blighted time of a human "blind eye," of "past omissions," and of an ongoing pretence that things are still okay since the Upland Sandpiper can still be seen. (Especially effective is the play on words in which the bird is "vanish[ing] before the smoke has settled"&#8212;incorporating both a clich&#233;d figure of speech and a sinister intimation of industrial pollution.)</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Prairie Suite: A Celebration</title>
+<title level="a">Upland Sandpiper</title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>Spring Creek Prairie Audubon Center</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">16</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2006">2006</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Bartramia longicauda</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Sandpiper_Upland">Sandpiper, Upland</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-03-26"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Upland Sandpiper</head>
+<div1>
+
+<lg type="poem">
+<l>Who knows how it came to be gathered here;</l>
+<l>slender-necked shorebird of the dry grasslands,</l>
+<l>clear indicator of high-quality habitat. That once</l>
+<l>a machine has scraped the last stalk and stone,</l>
+<l>it would vanish before the smoke has settled.</l>
+</lg>
+
+<lg type="poem">
+<l>We pretend, shrug, turn a blind eye to wild shadows.</l>
+<l>Here, we can swallow past omissions, celebrate</l>
+<l>its silhouette, its distinct habit of raising its wings</l>
+<l>upon landing, as if to say this is my inner court, my</l>
+<l>summer echo, where I breathe grass, undiminished.</l>
+</lg>
+
+
+</div1>
+</body>
+</text>
+</TEI>

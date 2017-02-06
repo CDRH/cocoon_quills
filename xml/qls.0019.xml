@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0019" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crane-Dance</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0019</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>If this poem's main tension lies in the conflict of scientific explanations versus the visceral "mystery, the rush" of crane migration, the poem's musicality provides the reader with a "rush" in itself, with the often dactylic drive of many of the lines evincing a feeling of action and drama. One might also point to the alliterative <emph>w</emph>'s of the first stanza, and then the playful internal-near-rhymes of "hollow" and "shallow" and "tallying." The abrupt sentence fragment "An urge older than imagination" is powerful, and anticipates the fuller Romantic critique to follow of analysis of the birds' behavior via "biology" and "genetics"; how much better, the poet implies, to partake oneself in this primordial rite of spring, to feel the "loosening," the "unrestraint" of the dance.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Potato Soup</title>
+<title level="a">Crane-Dance</title>
+<author>Hansen, Twyla (1949-)</author>
+<publisher>Backwater Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">55</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2003">2003</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Grus canadensis</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Crane_Sandhill" type="noAudio">Crane, Sandhill</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-01-15"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Crane-Dance</head>
+<div1>
+<lg>
+<l>At dusk along the Platte wave after wave</l>
+<l rend="indent">of sandhill cranes wing their way lower&#8212;</l></lg>
+
+<lg>
+<l>drifting, arching, stilt-legs extending&#8212;</l>
+<l rend="indent">landing their bones hollow into shallow water.</l></lg>
+
+<lg>
+<l>their great noise must be in celebration,</l>
+<l rend="indent">voice joining voice, tallying who made it</l></lg>
+
+<lg>
+<l>this far, this half-way stopover on the narrow</l>
+<l rend="indent">flyway, enroute to northern mating grounds.</l>
+</lg>
+
+<lg>
+<l>All night in the sandy riverbed clamoring,</l>
+<l rend="indent">overhead stars illuminating a rural sky.</l>
+</lg>
+
+<lg>
+<l>An urge older than imagination. Watching</l>
+<l rend="indent">I can't help thinking biology and love,</l></lg>
+
+<lg>
+<l>how genetics prove efficient on behalf of species.</l>
+<l rend="indent">A scientist might define it&#8212;the crane-dance,</l>
+</lg>
+
+<lg>
+<l>the lively display of feathers for a beloved&#8212;</l>
+<l rend="indent">as programming. Yet the mystery, the rush:</l>
+</lg>
+
+<lg>
+<l>in your eye a look, a signal, in your body</l>
+<l rend="indent">a call, a scent, all around the loosening,</l>
+</lg>
+
+<lg>
+<l>the melt, the unrestraint of near-spring,</l>
+<l rend="indent">on the horizon a cradle moon, bone-thin.</l>
+</lg>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0027" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">My Life on the Plains</hi></title>
+<title level="m" type="sub"></title>
+<author>Custer, George A. (1839-1876)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0027</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>This avian interlude is part of Custer's introductory chapter of his <title>Life</title>, in which the Great Plains, or "Great American Desert" (3), is described in some earnest, as geographical backdrop to the grand historical events to follow. (Of course, Custer never got to record his adventures at the Little Big Horn [1876].) Besides the attempt at wit with "defender of the helpless," the passage is of interest not only for its early description of characteristic cowbird behavior, but for its typical Euro-American imposition of Old World ornithology upon New World birds. Yes, the Brown-headed Cowbird is a member of the American family of "blackbirds" (<foreign>Icteridae</foreign>), but the "starling" is not. Indeed, the European Starling wasn't introduced to the Americas until 1890, by a fellow who wanted to introduce all of the birds mentioned in Shakespeare to the U.S.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">My Life on the Plains</title>
+<author>Custer, George A. (1839-1876)</author>
+<publisher>University of Nebraska Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">15-16</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1874">1966 [1874]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Molothrus ater</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Cowbird_Brown-headed">Cowbird, Brown-headed</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-02"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">My Life on the Plains</hi></head>
+<div1>
+<p>But here again is furnished what some reasoners would affirm is evidence of the eternal fitness of things. In most localities where these [buffalo] flies are found in troublesome numbers, there are also found flocks of starlings, a species of blackbird; these, more, I presume, to obtain a livelihood than to become the defender of the helpless, perch themselves upon the backs of the animals, when woe betide the hapless gadfly who ventures near, only to become a choice morsel for the starling. In this way I have seen our herds of cavalry horses grazing undisturbed, each horse of the many hundreds having perched upon his back from one to dozens of starlings, standing guard over him while he grazed.</p>
+</div1>
+</body>
+</text>
+</TEI>

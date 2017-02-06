@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0064" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from Earth, Water, and Sky</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0064</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Not only are we on the western fringes of the Great Plains here, but the Calliope Hummingbird is only a rare, accidental visitor to the plains east of the Rockies. However, this set of passages are so <emph>scintillating</emph>&#8212;like a hummingbird's feathers&#8212;that I couldn't resist. The nesting-female episode, especially, even evinces a few exclamation marks from the ornithologist, who more customarily limits himself to staid, "observational" prose. And the wonderful final sentence encapsulates, in crucial ways, the attitude and <foreign>modus operandi</foreign> of my commentary throughout this project.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Earth, Water, and Sky</title>
+<title level="a"></title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>University of Texas Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">57-60</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1999">1999</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Stellula calliope</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Hummingbird_Calliope" type="noAudio">Hummingbird, Calliope</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-01"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Earth, Water, and Sky</hi></head>
+<div1>
+
+<p><gap reason="sampling" /> I can well remember photographing a male Calliope Hummingbird that had established a territory in the middle of a moose-browsed willow flat in Wyoming's Grand Teton National Park. The bird would appear to turn gray as the sun disappeared behind a cloud, becoming barely distinguishable from the willow twigs upon which he perched. Then in full sunlight he displayed aggressively toward me, ascending some hundred feet into the air, hovering, and directing his ruby-red gorget my way. The sunlight caught the feathers, transforming them into a laserlike beam of ruby light, so bright I could hardly detect the rest of the bird. I suddenly had the impression that I was being attacked by a miniature invader from outer space. The impression was reinforced when the bird dove vertically downward toward my head, pulling out and ascending again at the last possible moment before he would have struck my face.</p>
+<gap reason="sampling" />
+<p>My own favorite hummingbird was a female Calliope (<foreign>Stellula calliope</foreign>) that had built a nest just ten feet away from a cabin door at the Jackson Hole Biological Station in the Tetons. Like those of all hummingbirds, the nest had been constructed largely of spider webbing, lined internally with willow cotton, and externally "decorated" with flakes of lichens and wood bark, causing it to blend imperceptibly with the pine branch on which it was placed.</p>
+<p>The deception was further enhanced by the nest's similarity to a pine cone, and it was placed among a small cluster of similarly sized cones. The tiny nest was fully protected from rain and hail by an overhanging branch directly above. The nesting tree was situated at the eastern edge of a pine grove, and the nest so located that the very first rays of the rising sun would illuminate the nest and begin to warm it and the brooding bird immediately after sunrise.</p>
+<p>Nesting directly above a dirt path leading to the cabin, the female soon became accustomed to a good deal of human traffic passing by only a few feet below her, and would tolerate prolonged observation by a careful observer from only a few yards away. One day, while observing the bird, I was visited by the station's director. He stopped by to chat with me, standing almost immediately under the nest, with his broad-brimmed cowboy hat nearly touching the branch upon which the nest was situated. The brooding female finally could stand it no longer, and began buzzing the hat in tight circles, skimming around and just above the brim as if it were a racetrack, while the director remained blissfully unaware of the infuriated creature whirling madly above! I didn't want to mention the bird to him, since I felt as few people as possible should know of her whereabouts in order to keep the disturbance level low, but tried to keep a straight face and maintain a polite conversation while watching the hummingbird turning the air blue with high-pitched obscenities, and making mad dashes around the Stetson.</p>
+<p>He finally left, completely unaware of the high drama that had transpired only a few inches above his head, and the dauntless female returned to her brooding once again!</p>
+<p>Hummingbirds are cherished for just such displays and other behaviors and attributes that seem to mirror a gamut of qualities shared, or aspired to, by their human admirers. Avoiding anthropomorphizing the avian world is good practice, but in the case of these magnificent little creatures, it is nearly impossible.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

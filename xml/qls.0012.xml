@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0012" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Earth, Water, and Sky: A Naturalist's Stories and Sketches</hi></title>
+<title level="m" type="sub"></title>
+<author>Johnsgard, Paul A. (1931- )</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0012</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>One might question the very ethics of interjecting human technology (and "deceit," ultimately) into these birds' natural environment, but it does lead to some fascinating thoughts on the "collective unconscious" of both birds and humankind. And one can forgive much, to arrive at such a wonderful final sentence.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Earth, Water, and Sky: A Naturalist's Stories and Sketches</title>
+<title level="a"></title>
+<author>Johnsgard, Paul A. (1931- )</author>
+<publisher>University of Texas Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">4-5</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1999">1999</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Tympanuchus cupido</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Prairie-chicken_Greater">Prairie-Chicken, Greater</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>fiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-19"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic">Earth, Water, and Sky</hi></head>
+<div1>
+<p>This year, to increase the chances that the birds [Greater Prairie-Chickens] would start to display without too much delay, l brought along a tape player and a recording of the males' courtship calls that I made more than two decades previously. As I placed the tape in the player, I noticed that I had made that recording on April 7, 1970, and that it had been recorded on the very same hill overlooking Burchard Lake [in southeast Nebraska]. As the soft but resonant recorded calls of the males were being broadcast out over the newly greening hills, I suddenly realized that these were calls that had been made by the direct ancestors of the very males that I was trying to attract! Furthermore, these living males would be hearing for the first time the voices of their now-deceased great-great-great-grandparents or thereabouts, assuming that each prairie-chicken generation lasts for only about three or four years on average. In this way, these voices from the distant past would be exhorting their own descendants to gather and participate in the activities they once had so enthusiastically engaged in, but that had now been quieted for eternity.</p>
+<p>This powerful realization, that ancestral voices might pass down through subsequent generations and influence them, even though the birds themselves are now dead, made me think of how the same might apply to me. My paternal grandfather was the son of a first-generation Norwegian immigrant, who would impress the value of a penny on me. My maternal grandfather was the son of a Canadian "easterner" who died when I was less than a year old. Yet his voice also spoke to me during my childhood, through my mother's love for English literature and the legacy of natural history books that had been part of his own library but eventually were absorbed into my own reading experience.</p>
+<p>A few weeks ago I invited my granddaughter to accompany me and watch, for her very first time, the act of annual renewal that is played out every spring among every generation of prairie-chickens on the beautiful grass-mantled hilltop above Burchard Lake. Thus, I can personally show my granddaughter some of my own sacred places in Nebraska, and introduce her to one of my very special spring rituals. There may be better reasons for viewing an April sunrise while sitting on an obscure hilltop in eastern Nebraska, but I can't think of one.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

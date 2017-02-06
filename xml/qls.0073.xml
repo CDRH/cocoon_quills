@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0073" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Red-tailed Hawk</title>
+<title level="m" type="sub"></title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0073</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The bird's "rusty tail" as "signature" is well done; the bird's "beak of doom" maybe less so. What I especially like in the poem are the various spondees that seem to echo the species' insistent power, most evident in the very first line: "Like a DARK BLUR the HAWK DROPS in a DEEP DIVE. . . ." With metrics like that&#8212;be afraid. Be very afraid!</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Prairie Suite: A Celebration</title>
+<title level="a">Red-tailed Hawk</title>
+<author>Hansen, Twyla (1949-)</author>
+<author>Johnsgard, Paul A. (1931-)</author>
+<publisher>Spring Creek Prairie Audubon Center</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">22</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="2006">2006</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Buteo jamaicensis</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Hawk_Red-tailed">Hawk, Red-tailed</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2009-04-17"><name>Charise G.  Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>Red-tailed Hawk</head>
+<div1>
+
+<lg type="poem">
+<l>Like a dark blur the hawk drops in a deep dive</l>
+<l>into a small bundle of prey, commands the airwaves</l>
+</lg>
+
+<lg type="poem">
+<l>with its great shoulders, its broad and lengthy wingspan;</l>
+<l>folded in stillness, then, it perches on branch or pole.</l>
+</lg>
+
+<lg type="poem">
+<l>What pools of opportunity here on the open prairie,</l>
+<l>this island spinning with food to its electric eyes.</l>
+</lg>
+
+<lg type="poem">
+<l>On the grass floor, among the rooted slender stalks, even</l>
+<l>in dust few are safe from its sharp talon, its beak of doom.</l>
+</lg>
+
+<lg type="poem">
+<l>Look, there, watch it bathe in blue air, soaring and circling,</l>
+<l>small blotch on the mirror of pond, its rusty tail its signature.</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>

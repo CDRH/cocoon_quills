@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0025" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from "An Abused Family"</title>
+<title level="m" type="sub"></title>
+<author>Editor [possibly Greenleaf, Miles (1886-1951)]</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0025</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>The incredible scorn for the "English" or House Sparrow by even nature lovers circa a hundred years ago is still a shock to this reader, especially since their advent to the Western hemisphere was the direct result of human importation. (Who's to blame <emph>there</emph>?) A further irony in the article above involves the fact that the sparrows our Nebraska journalist goes on to describe (in the ellipsis) as more "honorable" members of an "ancient" family "line" are native (American) sparrows, which are, in fact, not that closely related to the House Sparrow (an Old World weaver finch, after all). Part of the implicit ideology involved here is a similar scorn, of course, for lower-class humans, and the egalitarian winces at the privileging of some upper-crust hereditary nobility implicit in this passage. There is a final irony involved with the reprehensible allusion to "dead Indians," is evident enough to anyone who is forced to "take a look" at such discourse, with archaic opera glasses or not.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">Omaha Sunday World-Herald</title>
+<title level="m">An Abused Family</title>
+<title level="a">from "An Abused Family"</title>
+<author>Editor [possibly Greenleaf, Miles (1886-1951)]</author>
+<publisher>Omaha Sunday World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<biblScope type="page">4-N</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1915-06-27">27 June 1915</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Passer domesticus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Sparrow_House">Sparrow, House</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-01-23"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from "An Abused Family"</head>
+<div1>
+<p>Anybody who inhabits a house with beamed eaves will cheerfully admit that the English sparrow is an abomination. Besides building nests that look like so many <sic>dengenerate</sic> haystacks and increasing their own population faster than could be tabulated by the swiftest of all adding machines, these utterly impossible pests have a penchant for starting a rip-sporting scrap beneath every bedroom window in the community shortly before five o'clock a.m.</p>
+<p>There isn't anything good to be said about the English sparrow except that he is sort of cheerful and encouraging in the winter, when he comes mooching around the garbage can with a sad eye and a promise-to-be-good cast o' countenance. If it be true that he wages war on certain <sic>insectiverous</sic> undesirables his efforts are not appreciated, for most people would rather live with the bugs than with the English sparrow.</p>
+<p>Yet he is the outcast scion of a noble and much abused family. He might be likened to the black sheep of some aristocratic British house, cast forth and cut off from his patronage, to squabble and moil for a mere livelihood in the alleys and rubbish heaps of America. It is not hard to picture his relatives pursing their lips and turning their heads when his name is mentioned. Maybe a grim tear is shed. Mayhap there are subtle smiles.</p>
+<p>But this much is certain&#8212;his family is of the most gentle and beautiful and interesting of all birddom. Be he ever so obnoxious, the English sparrow is the only blot on the 'scutcheon of the ancient and honorable line of sparrows&#8212;long may they live!</p>
+<gap reason="sampling" />
+<p>So don't let yourself get the idea that the only good sparrow is a dead sparrow, for they're different from Indians. Go out this afternoon with your old opera glasses and take a look.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

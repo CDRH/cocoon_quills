@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0006" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Blackbirds</title>
+<title level="m" type="sub"><emph>for Tom</emph></title>
+<author>Hasselstrom, Linda (1943- )</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0006</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Poet-rancher Linda Hasselstrom has observed well the birds who share her western South Dakota pasture land. The birder/naturalist venturing too close to a redwing's nest knows that a painful peck on the head from a parent bird may well be expected. The poem's several sections on the species' aggressive protectionist nature eventually give way to more human concerns, including the irony of the government pamphlet's contradictory "suggestions" in section VII and the final punch-line hilarity of Section 8, on blackbirds' culinary possibilities. (The man's&#8212;and poet's?&#8212;implication that one knows what a Mourning Dove tastes like is perhaps sad enough in itself.)</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Caught By One Wing</title>
+<title level="a">Blackbirds</title>
+<author>Hasselstrom, Linda (1943- )</author>
+<publisher>Spoon River Poetry Press</publisher>
+<biblScope type="page">24</biblScope>
+<date when="1994">1994</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Agelaius phoeniceus</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Blackbird_Red-Winged" type="noAudio">Blackbird, Red-Winged</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-18"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<head>Blackbirds</head>
+<head type="sub"><emph>for Tom</emph></head>
+<div1>
+
+<lg type="poem">
+<l>I</l>
+<l>In spring, redwing blackbirds are the first back,</l>
+<l>raucous clouds in the trees,</l>
+<l>gold-rimmed red wings sparkling,</l>
+<l>inundating the prairie</l>
+<l>in waterfalls of sound.</l>
+</lg>
+
+<lg type="poem">
+<l>II</l>
+<l>When the tractor chugs into the field in June,</l>
+<l>mowing the alfalfa their nests hang on,</l>
+<l>blackbirds hover directly overhead,</l>
+<l>calling.</l>
+</lg>
+
+<lg type="poem">
+<l>III</l>
+<l>The sickle blade cuts down the nest;</l>
+<l>four blackbird chicks ride it, cheeping,</l>
+<l>into the grass. The hovering pair flies away.</l>
+<l>A buzzard circles.</l>
+</lg>
+
+<lg type="poem">
+<l>IV</l>
+<l>I walk through willows where more nests hang:</l>
+<l>a male hunches his shoulders and hisses,</l>
+<l>flaring his red plumage.</l>
+</lg>
+
+<lg type="poem">
+<l>V</l>
+<l>I walk across a field after mowing blackbird nests;</l>
+<l>that grinding sound just behind my head</l>
+<l>is a male blackbird flying within an inch,</l>
+<l>then darting away.</l>
+</lg>
+
+<lg type="poem">
+<l>VI</l>
+<l>I sit in the truck drinking coffee,</l>
+<l>A hawk bursts from the cottonwood tops; two</l>
+<l>blackbirds dart in above him, strike, screech.</l>
+<l>He ducks, tries to slash them with his claws.</l>
+<l>In relays, from territory to territory,</l>
+<l>the blackbirds drive him toward the next field.</l>
+<l>Two more rise to meet him.</l>
+</lg>
+
+<lg type="poem">
+<l>VII</l>
+<l>A Department of Agriculture pamphlet</l>
+<l>suggests poisoning blackbirds with Avitrol.</l>
+<l>Birds digesting it react with "distress symptoms and calls."</l>
+<l>It may not be used on crops intended for human food.</l>
+<l>Blackbirds may be killed when "committing</l>
+<l>or about to commit serious damage to agricultural crops."</l>
+</lg>
+
+<lg type="poem">
+<l>VIII</l>
+<l>I see a newspaper story on a man who</l>
+<l>eats blackbirds; they taste, he says,</l>
+<l>somewhat like doves. They have no</l>
+<l>distinct taste. "Usually," he advises,</l>
+<l>"you have to serve blackbirds with martinis."</l>
+</lg>
+
+</div1>
+</body>
+</text>
+</TEI>
+
+

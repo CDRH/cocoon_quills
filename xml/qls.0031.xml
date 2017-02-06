@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0031" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from The Journals of Lewis and Clark</title>
+<title level="m" type="sub"></title>
+<author>Lewis, Meriwether (1774-1809)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0031</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>If the Black-billed Magpie is indeed a species separate from the European Magpie (<foreign>Pica pica</foreign>), then Lewis and Clark were one of the first Euro-Americans to notice this new species. Their first documented sighting of the bird, above, took place in south-central South Dakota (near the future town of Chamberlain), on September 17th, 1804. Those familiar with the bird's "note" will probably agree that Lewis's "twait" transliteration captures the rhythm rather well. Those unfamiliar with the bird may be more interested in how many ways Lewis could misspell "beautiful." (But his partner William Clark's journaling efforts were worse, as witnessed by the oft-rehearsed joke that he somehow found the talent within him to spell "Sioux" 27 different ways!)</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">The Natural History of the Lewis and Clark Expedition</title>
+<title level="a">from The Journals of Lewis and Clark</title>
+<editor>Raymond Darwin Burroughs, ed.</editor>
+<author>Lewis, Meriwether (1774-1809)</author>
+<publisher>Michigan State University Press</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">245-246</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1961">1961</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Pica hudsonia</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Magpie_Black-Billed">Magpie, Black-Billed</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-05"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <hi rend="italic"><title>The Journals of Lewis and Clark</title></hi></head>
+<div1>
+
+<p>[O]ne of the hunters killed a bird of the <foreign>Corvus genus</foreign> and order of the pica &amp; about the size of a jack-daw. with a remarkable long tale.    beautifully variagated.    it[s] note is not disagreeable though loud&#8212;it is twait-twait-twait, twait, twait; twait, twait twait, twait.</p>
+<p><gap reason="sampling" /></p>
+<gap reason="sampling" />
+<p> the upper side of the wing, as well as the short side of the plumage of the party-coloured feathers is of a dark blackish or bluish green sonetimes presenting a light orange yellow or bluish tint as it happens to be presented to different exposures of light. the plumage of the tale consists of 12 feathers of equal lengths by pair(s), those in the center are the longest, and the others on each side <sic>deminishing </sic>about an inch each pair. the underside of the feathers is a pale black, the upper side is a dark blueish green and which like the outer part of the wings is changable as it reflects different portions of light. towards the the extremity of these feathers they become of an <sic>orrange</sic> green, then shaded pass to a redish indigo blue, and again at the extremity assume the predominant colour of changeable green. the tints of these feathers are very similar and equally <sic>beatiful</sic> and rich as the tints of blue and green of the peacock. it is a most <sic>beatifull</sic> bird. <gap reason="sampling" /> It's usual food is flesh. this bird <sic>dose</sic> not spread it's tail when it flys and the motion of it's wings when flying is much like that of a Jay&#8211;bird.
+
+</p>
+
+</div1>
+</body>
+</text>
+</TEI>

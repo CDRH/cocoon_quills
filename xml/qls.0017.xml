@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0017" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from <hi rend="italic">Yellowlegs: A Migration of the Mind</hi></title>
+<title level="m" type="sub"></title>
+<author>Janovy, Jr., John (1937-)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0017</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Nebraska biologist John Janovy writes a whole book on a relatively unknown (to the public, anyway) species of sandpiper, the Lesser Yellowlegs. In this passage, the particular female bird is described with perhaps as much empathy as a human observer can muster. Most remarkable is the successful attainment of a "bird's-eye view" by the accumulation of natural details: the reader comes to a great appreciation of the sheer rigors of the bird's life struggles, and the wonder of her incredible migratory peregrinations. No doubt, part of the writer's great infatuation with this species' pan-global flight is very much motivated by a human-centered yearning, revealing very human needs and a "dirt-bound" human consciousness of insufficiency, of lack; but the effort here to "see" from another, avian, point of view is itself a wonderful "flight" indeed.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Yellowlegs: A Migration of the Mind</title>
+<title level="a"></title>
+<author>Janovy, Jr., John (1937-)</author>
+<publisher>Houghton Mifflin</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">51-53</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1980">1980</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Tringa flavipes</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Yellowlegs_Lesser">Yellowlegs, Lesser</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Fiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-11-20"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<head>from <title>Yellowlegs: A Migration of the Mind</title></head>
+<div1>
+<p>It was mid-morning and ninety degrees when she came to the mudflats. The air was total stillness, and the sounds of motorboat and quacking feeding duck came from many miles down the lake. Out on the water, two fishermen sat and talked. She set her wings into a long glide, pumped a few times, and came to rest in a place where her feet made little prints. The water was receding slowly; the prints would be dry by afternoon and fixed in the mud. Under other conditions they might have become perfect fossils, mixed in with the thousands of footprints of dozens of other species that shared the mud with her. What a symphony score of sandpiper and plover footprints, trills, crescendos, full chords, rests, runs Liszt himself would have been proud of, repeats, some soft and some <foreign>forte</foreign>! What a puzzle for some future paleontologist! What a puzzle to sort out the meanings of all those dashes, starts, stops and steps! She left her footprints in soft mud, and she stepped across hard places, she waded directly into water alive with a taxonomist's life work and ate undescribed species of insects by the gram. She swallowed little fishes whole, and she drank some of the half mud. She was weary as only a migrating bird can be weary in the minds of humans who seriously consider such a feat. She slept that afternoon, fed again, slept that night, and spent lazy days of a perfect Indian Summer on the mudflats at the upper end of a large <sic>large</sic> reservoir.</p>
+<gap reason="sampling" />
+<p>Her life was, and had always been, the extremes. She had done things humans had only longed to do, and she had done things that humans were fearful of. She had traveled and seen the countryside like no human would ever see it, the details of a mudflat, the details of a river, patterns from the low altitude no human in a sealed jumbo jet thirty thousand feet above could ever study. She experienced the changing patterns of earth slowly, too, and her distance flights were to the airliner what walking is to the automobile. Walking, compared to a Ford Automobile, is cold, slow, hot, muscle powered, but none of these things is the <emph>real</emph> difference between walking and riding. No, walking one saw things in a city one never saw from a car window. Ladies hanging laundry or sunbathing, dogs, the patterns of diseased grass in an ill-kept lawn, a broken red wagon alongside a broken front porch, the total richness of an environment sensed at slow speeds from a different value set&#8212;that is the difference between walking and riding. Thus yellowlegs had things no human could ever have. She inherited these things, and among them was a view of the earth simply not technologically available to a scientist on leave.</p>
+<gap reason="sampling" />
+<p><gap reason="sampling" />One could experience the full range of Earth just by flying to Argentina, with one's own wings, that is. The minute texture of her environmental niche from Canada to South America was something she experienced twice a year, but it was not the same in the spring as in the fall. Oh, what man would be so fortunate! What fortune, to fly with the yellowlegs; fly over the Gulf with your own wings; fly along the shore of Padre Island; fly through skimmers and laughing gulls; fly to Yucat&#225;n; watch the Brazilian jungle, Solomon's mine of hummingbird jewels, slowly pass beneath you, and every bit as tangible as the front yards, dogs, dripping cars and broken ride toys of a midwestern America passing before a walking scientist on leave! It is not so simple as you think, dirt-bound human. A migration with sandpipers would alter a person, and the added year would be the least of changed ways!</p>
+
+</div1>
+</body>
+</text>
+</TEI>

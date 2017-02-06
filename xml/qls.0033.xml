@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="tei.xsl" type="text/xsl"?>
+
+<TEI xml:id="qls.0033" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">from Missouri River Journals</title>
+<title level="m" type="sub"></title>
+<author>Audubon, John James (1785-1851)</author>
+<principal>Gannon, Thomas C.</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>qls.0033</idno>
+<authority>Quills and Feathers: Literary Birds of the Northern Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+<p>Summer resident of Montana, North Dakota, and the Canadian Great Plains provinces, this bird crosses Audubon's path at the end of his journey up the Missouri River, at Fort Union, near the Montana/North Dakota border. Evident as usual are Audubon and company's gun-happy ways and his naturalist penchant for naming. (However, his friend Sprague's namesake, "Sprague's Missouri Lark," later became Sprague's Pipit when ornithologists discovered that pipits are not larks.) The birds are described as rather darling little creatures who "run prettily"; but the Audubon group's lust to find their nests remains the dominant agenda.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Writings &amp; Drawings</title>
+<title level="a">from Missouri River Journals</title>
+<editor>Christoph Irmscher, ed.</editor>
+<author>Audubon, John James (1785-1851)</author>
+<publisher>Library of America</publisher>
+<pubPlace></pubPlace>
+<biblScope type="page">646-648</biblScope>
+<biblScope type="volume"></biblScope>
+<date when="1999">1999</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="scientific">
+<term><foreign>Anthus spragueii</foreign></term>
+</keywords>
+<keywords scheme="original" n="species">
+<term key="Pipit_Sprague">Pipit, Sprague's</term>
+</keywords>
+<keywords scheme="original" n="genre">
+<term>Nonfiction</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2009-06-01"><name>Laura Weakly</name> Validation</change>
+<change when="2008-02-05"><name>Charise G. Alexander</name> Initial encoding</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+    <head>from Missouri River Journals</head>
+<div1>
+
+<p>[May 17th, 1843:]</p>
+<p>The little new Lark that I have named after Sprague has almost all the habits of the Skylark of Europe. Whilst looking anxiously after it, on the ground where we supposed it to be singing, we discovered it was high over our heads, and that sometimes it went too high for us to see it at all. We have not yet been able to discover its nest. <gap reason="sampling" /></p>
+<gap reason="sampling" />
+<p><gap reason="sampling" /> [W]e found we could approach the birds with comparative ease, and we had the good fortune to shoot three of the new Larks. I killed two, and Harris one. When this species starts from the ground, they fly in a succession of undulations, which renders aim at them quite difficult; after this, and in the same manner, they elevate themselves to some considerable height, as if about to sing, and presently pitch towards the ground, where they run prettily, and at times stand still and quite erect for a few minutes; we hope to discover their nests soon.</p>
+
+</div1>
+</body>
+</text>
+</TEI>
