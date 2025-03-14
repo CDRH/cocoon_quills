@@ -21,9 +21,11 @@
             <xsl:when test="$pagetype = 'doc'">
              <xsl:value-of select="//text/body/head"/> | Quills and Feathers
             </xsl:when>
+            <!-- 
             <xsl:when test="$pagetype = 'home'">
              Home | 
             </xsl:when>
+            -->
             <xsl:when test="$pagetype = 'about'">
              About | 
             </xsl:when>
