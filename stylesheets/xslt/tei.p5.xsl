@@ -17,33 +17,33 @@
         <meta charset="utf-8"/>
 
         <title>
-          <xsl:text>Quills</xsl:text>
           <xsl:choose>
             <xsl:when test="$pagetype = 'doc'">
-              | Birds | <xsl:value-of select="//text/body/head"/>
+             <xsl:value-of select="//text/body/head"/> | Quills and Feathers
             </xsl:when>
             <xsl:when test="$pagetype = 'home'">
-              | Home
+             Home | 
             </xsl:when>
             <xsl:when test="$pagetype = 'about'">
-              | About
+             About | 
             </xsl:when>
             <xsl:when test="$pagetype = 'intro'">
-              | Introduction
+             Introduction | 
             </xsl:when>
             <xsl:when test="$pagetype = 'birds'">
-              | The Birds
+             The Birds | 
             </xsl:when>
             <xsl:when test="$pagetype = 'bibl'">
-              | Bibliography
+             Bibliography | 
             </xsl:when>
             <xsl:when test="$pagetype = 'searchresults'">
-              | Search
+             Search | 
             </xsl:when>
             <xsl:otherwise>
               
             </xsl:otherwise>
-          </xsl:choose>  </title>
+          </xsl:choose>
+          <xsl:text>Quills and Feathers</xsl:text></title>
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root of your domain and delete these references -->
         <link rel="shortcut icon" href="/favicon.ico"/>
