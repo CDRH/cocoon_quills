@@ -90,18 +90,11 @@
               <li class="about">
                 <a href="{$siteroot}about.html">About</a>
               </li>
-              <li>
 
-
-                  <form action="{$siteroot}search/" method="get" style="margin-top: 0px;">
-                  <input size="20" type="text" name="q" value="Search this site"
-                    onfocus="this.value='';this.select();"/>
-                  <input value="search" type="submit" style="padding: 0px; "/>
-                  <br/>
-                  <!-- edit -->
-                  <!--<a href="searchHelp.html" class="help">Search Help</a>-->
-                </form>
+              <li class="search">
+                <a href="{$siteroot}search.html">Search</a>
               </li>
+
             </ul>
           </div>
           <!-- /navigation -->
