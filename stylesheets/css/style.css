@@ -7,10 +7,6 @@ html {
 	background-color: #3e515f;
 }
 
-.main {
-	
-}
-
 .all,
 .content-wrapper {
 	width: 960px;
@@ -50,7 +46,7 @@ html {
 	
 }
 
-div#footer {
+#footer {
 	background-color: #374855;
 
 	margin-top: 10px;
@@ -143,7 +139,8 @@ a, a:active, a:visited {
 	padding: 20px;
 }
 
-.main h2 {
+/* .main h2, */
+.main h1.h2 {
 	font-size: 1.6em;
 }
 
@@ -156,7 +153,8 @@ a, a:active, a:visited {
 	border-right: 1px solid #e0dbca;
 }
 
-.literature h2 {
+/* .literature h2, */
+.literature h1.h2 {
 	padding: 0 0 15px 0;
 }
 
@@ -173,7 +171,8 @@ a, a:active, a:visited {
 	padding-top: 5px;
 }
 
-.meta h3 {
+/* .meta h3, */
+.meta h2.h3 {
 	padding-top: 10px;
 	font-size: 1.2;
 	font-weight: 800;
@@ -187,11 +186,13 @@ a, a:active, a:visited {
 	padding-bottom: 10px;
 }
 
-.media h2 {
+/* .media h2, */
+.media h1.h2 {
 	font-size: 1.3em;
 }
 
-.media h3 {
+/* .media h3, */
+.media h2.h3 {
 	font-size: 1.1em;
 }
 
@@ -239,7 +240,7 @@ p {
 	padding: 10px 0;
 }
 
-h1 {
+h1, .h1 {
 	font-size: 1.6em;
 }
 
@@ -288,7 +289,10 @@ p.indent2 {
 	padding-left: 2em;
 }
 
-.biblInfo h3, .birdArticles h3 {
+/* .biblInfo h3,  */
+.biblInfo h2.h3,
+/* .birdArticles h3, */
+.birdArticles h2.h3 {
 	font-size: 1.2em;
 	margin-top: 10px;
 	font: 1.2em Georgia, "Times New Roman", Times, serif;
@@ -299,7 +303,8 @@ p.indent2 {
 	padding: 10px 0;
 }
 
-.searchResult h3 {
+/* .searchResult h3, */
+.searchResult h2.h3 {
 	font: 1.2em Georgia, "Times New Roman", Times, serif;
 	font-weight: 800;
 }
@@ -329,7 +334,8 @@ audio {
 	line-height: 1.6;
 }
 
-.about .main h3{
+/* .about .main h3,  */
+.about .main h2.h3 {
 	margin-top: 10px;
 }
 
@@ -350,7 +356,8 @@ audio {
 	border: solid 1px #000;
 }
 
-.birdcredit h4 {
+/* .birdcredit h4, */
+.birdcredit h3.h4 {
 	font-size: 1.2em;
 	margin: 0;
 	padding:  5px 0 5px 0;

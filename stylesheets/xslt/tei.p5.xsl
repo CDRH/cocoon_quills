@@ -197,14 +197,14 @@
   <xsl:template match="head">
     <xsl:choose>
       <xsl:when test="head[1]">
-        <h2>
+        <h1 class="h2">
           <xsl:apply-templates/>
-        </h2>
+        </h1>
       </xsl:when>
       <xsl:otherwise>
-        <h3>
+        <h2 class="h3">
           <xsl:apply-templates/>
-        </h3>
+        </h2>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
@@ -212,9 +212,9 @@
 
 
   <xsl:template match="text/body/div1/head[1]">
-    <h2>
+    <h1 class="h2">
       <xsl:apply-templates/>
-    </h2>
+    </h1>
   </xsl:template>
 
 
@@ -324,7 +324,7 @@
   
   <xsl:template name="credits">
     <!--<xsl:apply-templates select="//div1[@type='credits']"/>-->
-    <h2>Credits</h2>
+    <h1 class="h2">Credits</h1>
     <xsl:for-each select="//div1[@type='credits']/div2">
       <div class="birdcredit"><img>
         <xsl:attribute name="src">
@@ -334,7 +334,7 @@
           <xsl:text>.jpg</xsl:text>
         </xsl:attribute>
       </img>
-        <h4><xsl:value-of select="head"/></h4>
+        <h3 class="h4"><xsl:value-of select="head"/></h3>
         <xsl:if test="bibl[@type='image']">
           <p>Image: 
             <xsl:choose>
@@ -382,11 +382,11 @@
           <xsl:value-of select="str[@name='id']"/>
         </xsl:variable>
         <div class="biblInfo">
-          <h3>
+          <h2 class="h3">
             <a href="{$siteroot}doc/{$birdpagelink}.xml">
               <xsl:value-of select="str[@name='titleMain']"/>
             </a>
-          </h3>
+          </h2>
           
             <p>Author: <xsl:apply-templates select="str[@name='author']"/></p>
          <xsl:choose>
@@ -425,9 +425,9 @@
 
       <xsl:if test="str[@name='speciesName'][.!='']">
         <div class="birdArticles">
-          <h3>
+          <h2 class="h3">
             <xsl:value-of select="str[@name='speciesName']"/>
-          </h3>
+          </h2>
 
           <xsl:for-each select="current-group()">
 
@@ -466,12 +466,12 @@
           <xsl:value-of select="."/>
         </xsl:variable>
 
-        <h2>
+        <h1 class="h2">
           <xsl:value-of select="//keywords[@n='species']"/>
-        </h2>
-        <h3>
+        </h1>
+        <h2 class="h3">
           <xsl:value-of select="//keywords[@n='scientific']"/>
-        </h3>
+        </h2>
 
         <img>
           <xsl:attribute name="src">
@@ -511,7 +511,7 @@
 
     <div class="projectNote">
 
-      <h3>Notes</h3>
+      <h2 class="h3">Notes</h2>
       <xsl:apply-templates select="//note[@type='project']"/>
     </div>
     <!-- /projectNote -->
@@ -519,7 +519,7 @@
     <div class="meta">
       <div class="bib">
 
-        <h3>Bibliographical information</h3>
+        <h2 class="h3">Bibliographical information</h2>
         <xsl:if test="//bibl/author">
           <p>Author: <xsl:apply-templates select="//bibl/author"/></p>
         </xsl:if>
@@ -553,7 +553,7 @@
       <!-- /bib -->
 
       <div class="projectInfo">
-        <h3>Project Information</h3>
+        <h2 class="h3">Project Information</h2>
 
         <div class="iteminfo">
 
@@ -580,7 +580,7 @@
     <xsl:variable name="searchTerm" select="substring(//str[@name='q'],2,string-length(//str[@name='q'])-2)"/>
     <xsl:variable name="start" select="//str[@name='start']"/>
     <xsl:variable name="numFound" select="//result/@numFound"/>
-    <h2>Search Results</h2>
+    <h1 class="h2">Search Results</h1>
     <p>Your search for <strong>
         <xsl:value-of select="$searchTerm"/>
       </strong> returned <strong>
@@ -629,11 +629,11 @@
         <xsl:value-of select="str[@name='id']"/>
       </xsl:variable>
       <div class="searchResult">
-        <h3>
+        <h2 class="h3">
           <a href="{$siteroot}doc/{$birdpagelink}.xml">
             <xsl:value-of select="str[@name='titleMain']"/>
           </a>
-        </h3>
+        </h2>
         <xsl:for-each select="//lst[@name='highlighting']/lst[@name=$birdpagelink]/arr/str">
           <p><xsl:text>...</xsl:text>
             <xsl:analyze-string regex="[\s]" select="normalize-space(.)">
