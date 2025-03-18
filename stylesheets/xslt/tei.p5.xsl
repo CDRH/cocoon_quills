@@ -186,12 +186,6 @@
           <!-- /footer -->
         </footer>
 
-
-
-        <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"><xsl:text> </xsl:text></script>
-        <script type="text/javascript" src="{$siteroot}js/jQuery.jPlayer.2.0.0/jquery.jplayer.min.js"><xsl:text> </xsl:text></script>
-        <script type="text/javascript" src="{$siteroot}js/plugins.js"><xsl:text> </xsl:text></script>
--->
       </body>
     </html>
 
