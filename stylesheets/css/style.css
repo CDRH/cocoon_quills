@@ -7,11 +7,11 @@ html {
 	background-color: #3e515f;
 }
 
-div.main {
+.main {
 	
 }
 
-div.all {
+.all {
 	width: 960px;
 	margin: auto;
 	
@@ -71,7 +71,7 @@ div#footer {
 	padding-bottom: 20px;
 }
 
-div.navigation {
+.navigation {
 	
 }
 
@@ -79,17 +79,17 @@ div.navigation {
 	background-color: #374855;
 }
 
-div.navigation ul{
+.navigation ul{
 	list-style: none;
 	margin: 0;
 }
 
-div.navigation li {	
+.navigation li {	
 	margin: 0 0 5px 0;
 	
 }
 
-div.navigation li a, div.navigation li form  {
+.navigation li a, .navigation li form  {
 	padding: 10px 20px 10px 0px;
 	margin: 0 0 5px 0;
 	color: #fff;
@@ -100,17 +100,17 @@ div.navigation li a, div.navigation li form  {
 	font-variant: small-caps;
 }
 
-div.navigation li a {
+.navigation li a {
 	font-size: 1.4em;
 	
 }
 
-div.navigation li a:hover {
+.navigation li a:hover {
 	background-color: #374855;
 	
 }
 
-div.navigation li form input  {
+.navigation li form input  {
 
 }
 
