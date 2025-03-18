@@ -333,8 +333,11 @@
           <xsl:value-of select="@xml:id"/>
           <xsl:text>.jpg</xsl:text>
         </xsl:attribute>
+        <xsl:attribute name="alt">
+            <xsl:value-of select="normalize-space(head)"/>
+        </xsl:attribute>
       </img>
-        <h3 class="h4"><xsl:value-of select="head"/></h3>
+        <h2 class="h3"><xsl:value-of select="head"/></h2>
         <xsl:if test="bibl[@type='image']">
           <p>Image: 
             <xsl:choose>
@@ -486,11 +489,17 @@
           <xsl:attribute name="width">
             <xsl:text>230</xsl:text>
           </xsl:attribute>
+          <xsl:attribute name="alt">
+            <xsl:value-of select="normalize-space(//keywords[@n='species'])"/>
+          </xsl:attribute>
         </img>
 
 
         <xsl:if test="not(//keywords[@n='species']/term/@type = 'noAudio')">
-          <audio controls="controls">
+          <figure class="audio-figure">
+          <figcaption class="sr-only">Audio recording
+          </figcaption>
+<audio controls="controls">
             <source src="{$siteroot}audio/mp3/{$birdkey}.mp3"/>
             <source src="{$siteroot}audio/ogg/{$birdkey}.ogg"/>
 
@@ -498,10 +507,11 @@
               flashvars="audioUrl={$siteroot}audio/mp3/{$birdkey}.mp3"
               type="application/x-shockwave-flash" width="230" height="27" quality="best"/>
           </audio>
+          </figure>
 
-          <p>
-            <a href="{$siteroot}audio/mp3/{$birdkey}.mp3">mp3 file</a> | <a
-              href="{$siteroot}audio/ogg/{$birdkey}.ogg">ogg file</a>
+          <p> 
+            <a href="{$siteroot}audio/mp3/{$birdkey}.mp3"><span class="sr-only">Download </span>mp3 file</a> | <a
+              href="{$siteroot}audio/ogg/{$birdkey}.ogg"><span class="sr-only">Download </span>ogg file</a>
           </p>
         </xsl:if>
       </xsl:for-each>
