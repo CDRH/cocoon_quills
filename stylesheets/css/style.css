@@ -430,7 +430,8 @@ Accessibility Fixes
 ///////////////// */
 
 /* Skip to main content link */
-.sr-only {
+.sr-only,
+.home .main h1 {
   position: absolute;
   width: 1px;
   height: 1px;
