@@ -458,18 +458,20 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
 .static-banner-wrapper {
   background-color: #cce5f2;
   border-bottom: 1px solid #226e95;
+  padding: 0 20px;
 }
 
 .static-banner {
   margin: auto;
-  max-width: 100%; /* Change this to the width of the page content */
-  padding: 15px 20px;
-  text-align: left;
+  max-width: 960px; /* Change this to the width of the page content */
+  padding: 15px 0px;
+  text-align: center;
 }
 
 .static-banner p {
   font-size: 14px; /* Change to fit site */
   margin: 0;
+  padding: 0;
 }
 
 .static-banner p a,
