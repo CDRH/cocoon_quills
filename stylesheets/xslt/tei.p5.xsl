@@ -59,20 +59,20 @@
 
       </head>
       <body class="{$pagetype}">
-
-
-
-        <div class="all">
-
+        <header class="content-wrapper">
           <a href="{$siteroot}">
             <div class="header">
-              <h1>Quills and Feathers</h1>
+                <div class="header-image">
+                  <span class="sr-only">Quills and Feathers</span>
+                </div>
             </div>
           </a>
           <!-- /header -->
+        </header>
 
-
-          <div class="navigation">
+        <main id="main_content" class="content-wrapper">
+          <div class="sidebar">
+            <nav class="navigation">
             <ul>
               <li class="home">
                 <a href="{$siteroot}">Home</a>
@@ -96,10 +96,12 @@
               </li>
 
             </ul>
-          </div>
+          </nav>
           <!-- /navigation -->
+          </div>
+        
 
-          <div class="content">
+        <div class="content">
 
             <div class="main">
 
@@ -164,7 +166,9 @@
 
           </div>
           <!-- /content -->
-
+        </main>
+          
+        <footer class="content-wrapper">
           <div id="footer">
             <p>&#169; 2011 University of Nebraska&#8211;Lincoln <br/>Individual works are
               &#169; their respective owners.<br/>
@@ -172,9 +176,9 @@
             <img src="{$siteroot}imgs/unl_logo.png" alt="University of Nebraska-Lincoln Logo"/>
           </div>
           <!-- /footer -->
+        </footer>
 
-        </div>
-        <!-- /all -->
+
 
         <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"><xsl:text> </xsl:text></script>
         <script type="text/javascript" src="{$siteroot}js/jQuery.jPlayer.2.0.0/jquery.jplayer.min.js"><xsl:text> </xsl:text></script>
