@@ -59,15 +59,23 @@
 
       </head>
       <body class="{$pagetype}">
-        <header class="content-wrapper">
-          <a href="{$siteroot}">
-            <div class="header">
-                <div class="header-image">
-                  <span class="sr-only">Quills and Feathers</span>
+        <header>
+        <a class="sr-only sr-only-focusable" href="#main_content">Skip to main content</a>
+        <div class="static-banner-wrapper">
+          <div class="static-banner">
+            <p>This version of the website was created in 2025. See the <a href="info.html">Site Information Page</a> for contact information, data downloads, and other details.</p>
+          </div>
+        </div>
+        <div class="content-wrapper">
+            <a href="{$siteroot}">
+                <div class="header">
+                    <div class="header-image">
+                      <span class="sr-only">Quills and Feathers</span>
+                    </div>
                 </div>
+              </a>
+              <!-- /header -->
             </div>
-          </a>
-          <!-- /header -->
         </header>
 
         <main id="main_content" class="content-wrapper">
